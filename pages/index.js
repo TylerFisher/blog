@@ -1,17 +1,43 @@
 import Layout from '../components/layout'
-import { attributes, html } from '../content/home.md'
+import FeaturedPost from '../components/homepage/FeaturedPost';
+import PostStream from '../components/homepage/PostStream';
 
-const Home = () => (
-  <Layout>
-    <h1>{attributes.title}</h1>
-    <div dangerouslySetInnerHTML={{ __html: html }} />
-    <style jsx>{`
-      h1,
-      div {
-        text-align: center;
-      }
-    `}</style>
-  </Layout>
-)
+const importBlogPosts = async () => {
+  // https://webpack.js.org/guides/dependency-management/#requirecontext
+  const markdownFiles = require
+    .context('../content/posts', false, /\.md$/)
+    .keys()
+    .map((relativePath) => relativePath.substring(2))
+
+  return Promise.all(
+    markdownFiles.map(async (path) => {
+      const markdown = await import(`../content/posts/${path}`)
+      return { ...markdown, slug: path.substring(0, path.length - 3) }
+    })
+  )
+}
+
+const Home = ({ postsList }) => {
+  const featuredPost = postsList[0];
+  const streamPosts = postsList.slice(1);
+  return (
+    <Layout>
+      <div className="max-w-7xl mx-auto">
+        <FeaturedPost post={featuredPost} />
+        <PostStream posts={streamPosts} />
+      </div>
+    </Layout>
+  )
+}
+
+export async function getStaticProps() {
+  const postsList = await importBlogPosts()
+
+  return {
+    props: {
+      postsList,
+    },
+  }
+}
 
 export default Home

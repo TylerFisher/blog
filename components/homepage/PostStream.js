@@ -1,0 +1,31 @@
+import PostLink from './PostLink';
+
+export default function PostStream({ posts }) {
+  return (
+    <div 
+      className="flex flex-row flex-wrap"
+    >
+      <section className="max-w-3xl md:w-2/3 w-full">
+        <h2 className="items-center flex text-sm tracking-wide mb-8 uppercase after:bg-gray-300 after:flex-grow after:ml-4 after:h-0.5">
+          More posts
+        </h2>
+        {posts.map((post, i) => (
+          <PostLink post={post} key={post.slug} mt={i > 0} />
+        ))}
+      </section>
+      <aside className="text-lg h-max w-full mt-16 md:mt-0 md:pl-16 md:sticky md:top-20 md:w-1/3">
+        <section>
+          <h2 className="items-center flex text-sm tracking-wide mb-4 uppercase after:bg-gray-300 after:flex-grow after:ml-4 after:h-0.5">
+            About
+          </h2>
+          <section className="flex flex-col justify-center">
+            <h3 className="text-2xl font-black tracking-tight leading-tight text-orange-600">
+              Tyler Fisher
+            </h3>
+            <p className="mt-2 leading-normal">A software engineer and journalist running a blog for fun.</p>
+          </section>
+        </section>
+      </aside>
+    </div> 
+  )
+}

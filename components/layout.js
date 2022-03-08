@@ -1,33 +1,14 @@
-import Link from 'next/link'
+import Header from './nav/Header';
+import SubscribeBlock from './newsletter/SubscribeBlock';
 
 const Layout = ({ children }) => (
   <>
-    <nav>
-      <Link href="/">
-        <a>home</a>
-      </Link>
-      <Link href="/blog">
-        <a>blog</a>
-      </Link>
-      <Link href="/about">
-        <a>about</a>
-      </Link>
-    </nav>
-    <main>{children}</main>
-    <style jsx>{`
-      nav {
-        text-align: center;
-      }
-      nav a {
-        margin-right: 2px;
-        padding: 4px;
-      }
-      main {
-        display: flex;
-        flex-direction: column;
-      }
-    `}</style>
+    <Header />
+    <main className="px-6 md:px-14 py-8 md:py-24">
+      {children}
+    </main>
+    <SubscribeBlock />
   </>
 )
 
-export default Layout
+export default Layout;
