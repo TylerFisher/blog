@@ -3,6 +3,11 @@ title: A blog? In this economy?
 date: 2022-03-08T01:11:04.211Z
 description: I'm taking back a space of the internet for myself.
 thumbnail: https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646704863/kristopher-roller-PC_lbSSxCZE-unsplash_motlgf.jpg
+leadImage:
+  image: https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646704863/kristopher-roller-PC_lbSSxCZE-unsplash_motlgf.jpg
+  alt: A hand, holding a sparking firecracker rising out of the water
+  caption: "What starting a blog in 2022 feels like: silly, but also hopeful.
+    Photo by Kristopher Roller / Unsplash"
 ---
 I've been active on the internet since the mid-2000s as a middle schooler. For the past two decades, my access to the internet has always been mediated through platforms.
 
@@ -10,23 +15,17 @@ Back in 2005, I talked to my friends on AIM and journaled inanely about whatever
 
 When I made my first Xanga, the platform gave me confines to build in, but I defined nearly everything about it: not just the look but the structure of its content, its purpose, and how it interacted with the rest of the platform. MySpace enforced more control over the structure, but you still controlled your presentation. I wrote my first HTML and CSS on those platforms.
 
-![An example Xanga page](https://res.cloudinary.com/tylrfishr/image/upload/v1646704632/image_yxltho.png)
-
-Not my Xanga, but like, not *not* my Xanga, you know?
+<figure><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646704632/image_yxltho.png" alt="A fake Xanga profile emblematic of the style" /><figcaption>Not my Xanga, but like, not *not* my Xanga, you know?</figcaption></figure>
 
 Facebook's main user-facing innovation, as I remember it when I joined in 2008, was to strip away the personalization. It was cleaner. Everyone's profile looked the same. It was a necessary corrective from then-dominant MySpace, where profiles were bloated with autoplaying audio, flashing gifs, and neon colors, designed by teens with no idea how to make text readable.
 
-![Barack Obama's Facebook profile circa 2008](https://res.cloudinary.com/tylrfishr/image/upload/v1646704661/image-3_dqw5vf.png)
-
-Clean, but anemic.
+<figure><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646704661/image-3_dqw5vf.png" alt="Barack Obama's Facebook profile, circa 2008" /><figcaption>Clean, but soulless.</figcaption></figure>
 
 But it was a devil's bargain. Once we gave away the ability to control our presentation online, we started losing control of everything else. Today, we can't even control what appears on our screen. Algorithmic timelines force upon us stale content from days ago, suggested follows of people we don't know, and of course, ads. Always ads.
 
 Despite promising everything you could ever want, it has never been harder to find what you need online. Running a Google search means sifting through the first page of ads and bullshit content from SEO content farms before you get to anything useful. The social platforms are nigh unusable in their current state, where it feels like at least 25% of your timeline is ads.
 
-![](https://res.cloudinary.com/tylrfishr/image/upload/v1646704674/Screen_Shot_2022-03-07_at_1.05.08_AM_ugfqyq.png)
-
-It's ads all the way down
+<figure><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646704674/Screen_Shot_2022-03-07_at_1.05.08_AM_ugfqyq.png" alt="A Google Search results page full of ads" /><figcaption>It's ads all the way down.</figcaption></figure>
 
 Against this backdrop, we fight for the remaining scraps of attention. Our posts must be Definitive Statements, weaponized to make someone stop scrolling and engage. We whittle down our thought into absolutist terms to be as direct as possible. When our posts succeed, all we do is open ourselves up to [context collapse](https://warzel.substack.com/p/its-not-cancel-culture-its-a-platform?s=r). There is no winning on the platforms.
 

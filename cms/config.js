@@ -107,10 +107,27 @@ module.exports = {
           widget: "string",
         },
         {
-          label: "Featured Image",
-          name: "thumbnail",
-          widget: "image",
+          label: "Lead image",
+          name: "leadImage",
+          widget: "object",
           required: true,
+          fields: [
+            {
+              label: "Image",
+              name: "image",
+              widget: "image",
+            },
+            {
+              label: "Alt",
+              name: "alt",
+              widget: "string"
+            },
+            {
+              label: "Caption",
+              name: "caption",
+              widget: "string"
+            },
+          ],
         },
         {
           label: "Body",
