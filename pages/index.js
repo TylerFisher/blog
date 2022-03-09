@@ -24,7 +24,11 @@ const Home = ({ postsList }) => {
     <Layout>
       <div className="max-w-7xl mx-auto">
         <FeaturedPost post={featuredPost} />
-        <PostStream posts={streamPosts} />
+        <PostStream
+          posts={streamPosts}
+          label="More Posts"
+          about="A software engineer and journalist running a blog for fun."
+        />
       </div>
     </Layout>
   )

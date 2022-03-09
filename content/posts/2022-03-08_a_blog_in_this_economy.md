@@ -8,6 +8,7 @@ leadImage:
   alt: A hand, holding a sparking firecracker rising out of the water
   caption: "What starting a blog in 2022 feels like: silly, but also hopeful.
     Photo by Kristopher Roller / Unsplash"
+category: Posts about posts
 ---
 I've been active on the internet since the mid-2000s as a middle schooler. For the past two decades, my access to the internet has always been mediated through platforms.
 

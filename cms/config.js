@@ -32,7 +32,6 @@ module.exports = {
       ],
     },
   },
-  // The Pages collection
   collections: [
     {
       name: "Pages",
@@ -130,11 +129,37 @@ module.exports = {
           ],
         },
         {
+          label: "Category",
+          name: "category",
+          widget: "relation",
+          collection: "categories",
+          search_fields: ["title"],
+          value_field: "title",
+        },
+        {
           label: "Body",
           name: "body",
           widget: "markdown",
         },
       ],
+    },
+    {
+      label: "Categories",
+      name: "categories",
+      folder: "content/categories",
+      create: true,
+      fields: [
+        {
+          label: "Title",
+          name: "title",
+          widget: "string",
+        },
+        {
+          label: "About",
+          name: "about",
+          widget: "text",
+        }
+      ]
     }
   ],
 };

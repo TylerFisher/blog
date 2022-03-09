@@ -8,6 +8,7 @@ leadImage:
   image: https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646713633/Screen-Shot-2022-03-03-at-5.58.22-PM_jtca18.png
   alt: A screenshot of a terminal prompt
   caption: Get you a terminal that looks like this!
+category: Writing code
 ---
 Over the past couple of months, I've had to set up multiple macOS computers for web development work. In the process, I've learned about a few tools that make the process much less painful than it used to be. So, in the spirit of the NPR Visuals Team's [immortal dev setup blog post](https://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html), I thought I'd share my process as it exists in early 2022.
 

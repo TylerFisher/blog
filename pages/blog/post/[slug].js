@@ -1,7 +1,6 @@
-import fs from 'fs'
-import path from 'path'
-import Layout from '../../../components/layout'
-import Post from '../../../components/posts/Post'
+import { getPathsForFolder } from '../../../lib/serverUtils';
+import Layout from '../../../components/layout';
+import Post from '../../../components/posts/Post';
 
 const PostWrapper = ({ post }) => {
   if (!post) return <div>not found</div>
@@ -14,14 +13,7 @@ const PostWrapper = ({ post }) => {
 }
 
 export async function getStaticPaths() {
-  const paths = fs
-    .readdirSync(path.join(process.cwd(), 'content/posts'))
-    .map((blogName) => {
-      const trimmedName = blogName.substring(0, blogName.length - 3)
-      return {
-        params: { slug: trimmedName },
-      }
-    })
+  const paths = getPathsForFolder('posts');
 
   return {
     paths,
