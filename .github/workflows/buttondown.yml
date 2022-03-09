@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # windows-latest | macos-latest
+    name: Test changed-files
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # OR "2" -> To retrieve the preceding commit.
+
+      - name: Run changed-files with defaults on the dir1
+        id: added-posts
+        uses: tj-actions/changed-files@v17.3
+        with:
+          path: content/posts
+
+      - name: List all changed files
+        run: |
+          for file in ${{ steps.added-posts.outputs.added_files }}; do
+            echo "$file was added"
+          done
