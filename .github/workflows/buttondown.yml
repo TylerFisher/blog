@@ -1,31 +1,25 @@
-# This is a basic workflow to help you get started with Actions
+name: CI
 
-name: Send post to Buttondown
-
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches:
+      - main
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    runs-on: ubuntu-latest  # windows-latest | macos-latest
+    name: Test changed-files
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Run changed-files with defaults on the dir1
-        id: changed-files-for-posts
-        uses: tj-actions/changed-files@v17.3
+      - uses: actions/checkout@v2
         with:
-          path: content/posts
+          fetch-depth: 0  # OR "2" -> To retrieve the preceding commit.
 
-      - name: List all added files in posts
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v17.3
+
+      - name: List all changed files
         run: |
-          for file in ${{ steps.changed-files-for-posts.outputs.added_files }}; do
-            echo "$file was added"
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            echo "$file was changed"
           done
