@@ -1,6 +1,8 @@
 import Layout from '../components/layout'
 import FeaturedPost from '../components/homepage/FeaturedPost';
 import PostStream from '../components/homepage/PostStream';
+import { constructPostPath } from '../lib/serverUtils';
+import { NextSeo } from 'next-seo';
 
 const importBlogPosts = async () => {
   // https://webpack.js.org/guides/dependency-management/#requirecontext
@@ -11,8 +13,10 @@ const importBlogPosts = async () => {
 
   return Promise.all(
     markdownFiles.map(async (path) => {
-      const markdown = await import(`../content/posts/${path}`)
-      return { ...markdown, slug: path.substring(0, path.length - 3) }
+      const markdown = await import(`../content/posts/${path}`);
+      const [ year, month, day, slug ] = constructPostPath(path);
+
+      return { ...markdown, slug: `${year}/${month}/${day}/${slug}` }
     })
   )
 }
@@ -22,6 +26,9 @@ const Home = ({ postsList }) => {
   const streamPosts = postsList.slice(1);
   return (
     <Layout>
+      <NextSeo
+        canonical={`https://www.tylerjfisher.com`}
+      />
       <div className="max-w-7xl mx-auto">
         <FeaturedPost post={featuredPost} />
         <PostStream
@@ -35,7 +42,7 @@ const Home = ({ postsList }) => {
 }
 
 export async function getStaticProps() {
-  const postsList = await importBlogPosts()
+  const postsList = await importBlogPosts();
 
   return {
     props: {
