@@ -49,7 +49,6 @@ const PostWrapper = ({ post, slug }) => {
 
 export async function getStaticPaths() {
   const paths = getPostParamsForFolder('posts');
-  console.log(paths);
 
   return {
     paths,
