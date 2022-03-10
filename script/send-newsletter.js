@@ -27,6 +27,7 @@ async function sendNewsletter(params) {
     });
   
     const respData = await response.json();
+    console.log('Newsletter published!', respData);
   } catch(e) {
     console.log(e);
   }
