@@ -4,7 +4,7 @@ date: 2022-03-08T04:39:48.527Z
 ---
 # What's all this?
 
-I'm a journalist and software engineer who has worked with both the world's largest news organizations and solo operations just getting off the ground. Currently, I'm a deputy director at [News Catalyst](https://newscatalyst.org) and the director of technology at the [Tiny News Collective](https://tinynewsco.org). I used to work at Politico and NPR, building [election results reporting systems](https://www.politico.com/election-results/2018/house/), [bespoke visual stories](https://apps.npr.org/life-after-death/), and [newsroom tooling](https://github.com/nprapps/lunchbox).
+I'm a journalist and software engineer who has worked with prominent national news organizations and solo operations just getting off the ground. Currently, I'm a deputy director at [News Catalyst](https://newscatalyst.org) and the director of technology at the [Tiny News Collective](https://tinynewsco.org). I used to work at Politico and NPR, building [election results reporting systems](https://www.politico.com/election-results/2018/house/), [bespoke visual stories](https://apps.npr.org/life-after-death/), and [newsroom tooling](https://github.com/nprapps/lunchbox).
 
 But work isn't my life, and I never talk about things I enjoy aside from the errant tweet. I've let my digital life only express the work over the past few years. I want to talk more about the play.
 
