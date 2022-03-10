@@ -1,5 +1,5 @@
-import Link from 'next/link';
-import { apdate } from 'journalize';
+import Link from "next/link";
+import { apdate } from "journalize";
 
 export default function FeaturedPost({ post }) {
   return (
@@ -16,14 +16,19 @@ export default function FeaturedPost({ post }) {
                   {post.attributes.title}
                 </h2>
               </header>
-              <p className="text-xl md:text-3xl mt-6 max-w-4xl">{post.attributes.description}</p>
+              <p className="text-xl md:text-3xl mt-6 max-w-4xl">
+                {post.attributes.description}
+              </p>
             </div>
             <figure className="w-full mt-8 md:mt-0 md:w-1/2">
-              <img src={post.attributes.leadImage.image} alt={post.attributes.leadImage.alt} />
+              <img
+                src={post.attributes.leadImage.image}
+                alt={post.attributes.leadImage.alt}
+              />
             </figure>
           </div>
         </a>
       </Link>
     </article>
-  )
+  );
 }

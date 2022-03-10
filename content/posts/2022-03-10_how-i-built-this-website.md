@@ -9,18 +9,19 @@ leadImage:
   alt: A Lego brick stacked on a larger Lego board
 category: Writing code
 ---
+
 I've wanted to have my own blog, or just a website for writing, for a long time. But every time I felt the stirrings of the written word within me, I couldn't decide on a platform. Bite the bullet and start a Substack? Try Ghost? Suffer through PHP and make a WordPress? Build something from scratch? I had real option paralysis when it came to choosing a platform for what is ultimately a very low-stakes blog with no revenue plan.
 
 I did, in fact, try [Ghost](https://ghost.org/). I thought it hit the sweet spot of "does a lot for me so I can get moving" and "cheap enough for a personal blog." I built something very close to this very website, and very nearly launched it. Until I started tinkering with the themes and realized you had to pay $300/year for the privilege of theme editing. That's not worth it to me when I know I can replicate many of Ghost's features myself. Ghost is fairly priced for someone who means to start a real, revenue-generating business with their digital presence. But I'm doing this for free.
 
 So, instead, I built this from scratch. Thankfully, the [default Ghost theme](https://github.com/TryGhost/Themes/tree/main/packages/journal) I was working from is MIT licensed, so I cribbed heavily from it for this site. Here are the tools I'm using for the build:
 
-* **Web framework**: [next.js](https://nextjs.org)
-* **CMS**: [Netlify CMS](https://www.netlifycms.org/)
-* **Hosting platform**: [Vercel](https://vercel.com)
-* **CSS framework**: [Tailwind](https://tailwindcss.com/)
-* **Newsletters**: [Buttondown](https://buttondown.email)
-* **Media library/image CDN**: [Cloudinary](https://cloudinary.com)
+- **Web framework**: [next.js](https://nextjs.org)
+- **CMS**: [Netlify CMS](https://www.netlifycms.org/)
+- **Hosting platform**: [Vercel](https://vercel.com)
+- **CSS framework**: [Tailwind](https://tailwindcss.com/)
+- **Newsletters**: [Buttondown](https://buttondown.email)
+- **Media library/image CDN**: [Cloudinary](https://cloudinary.com)
 
 All in all, it took me two nights of hacking to put this all together.
 
@@ -37,17 +38,17 @@ Instead, I chose Buttondown as my email provider, which is free until I get past
 I actually couldn't believe how easy it was to make this work. All I had to do was write a [simple script](https://github.com/TylerFisher/blog/blob/main/script/send-newsletter.js). Seriously, this is the whole function:
 
 ```javascript
-const fetch = require('node-fetch');
-const { program } = require('commander');
-const matter = require('gray-matter');
-require('dotenv').config();
+const fetch = require("node-fetch");
+const { program } = require("commander");
+const matter = require("gray-matter");
+require("dotenv").config();
 
-program.version('0.0.1');
+program.version("0.0.1");
 
 async function sendNewsletter(params) {
   const apiUrl = process.env.BUTTONDOWN_API_URL;
   const apiToken = process.env.BUTTONDOWN_API_KEY;
-  
+
   // gray-matter parses Markdown files with frontmatter
   const data = matter.read(`${params.file}`);
 
@@ -56,35 +57,34 @@ async function sendNewsletter(params) {
     body: data.content,
     subject: data.data.title,
   };
-  
+
   // send request to buttondown
   try {
     const response = await fetch(apiUrl, {
-      method: 'post',
+      method: "post",
       body: JSON.stringify(newsletterData),
       headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Token ${apiToken}`,
+        "Content-Type": "application/json",
+        Authorization: `Token ${apiToken}`,
       },
     });
-    
+
     // tell me about it
     const respData = await response.json();
-    console.log('Newsletter published!', respData);
-  } catch(e) {
+    console.log("Newsletter published!", respData);
+  } catch (e) {
     // tell me if something went wrong
     console.log(e);
   }
 }
 
-
 // configure cli
 program
   .requiredOption(
-    '-f, --file <data>',
-    'required, file to parse, ex: content/posts/2022-03-08_a-blog-in-this-economy.md'
+    "-f, --file <data>",
+    "required, file to parse, ex: content/posts/2022-03-08_a-blog-in-this-economy.md"
   )
-  .description('Parses posts and sends as newsletter via ButtondownAPI ')
+  .description("Parses posts and sends as newsletter via ButtondownAPI ")
   .action((opts) => {
     try {
       sendNewsletter(opts);
@@ -96,7 +96,7 @@ program
 program.parse(process.argv);
 ```
 
-And I run it like this: 
+And I run it like this:
 
 ```
 $ node script/send-newsletter.js -f content/posts/slug-of-post.md
@@ -177,7 +177,7 @@ Out of the box, Netlify CMS's preview pane is pretty useless, but you can supply
 
 Wrong. Because Netilfy CMS uses its own instance of React and doesn't crib from mine, it doesn't know anything about my Tailwind configuration. Meaning I can't do something like `<article className="max-w-7xl mx-auto">`. Those classes mean nothing to Netlify CMS's React instance. So instead, you have to supply Tailwind to the component as well.
 
-I landed on doing this by writing a \`PostPreview\` component that injects the Tailwind CDN script after the component mounts. This is *not* recommended behavior for production, but I'm the only person using this, so I made the compromise.
+I landed on doing this by writing a \`PostPreview\` component that injects the Tailwind CDN script after the component mounts. This is _not_ recommended behavior for production, but I'm the only person using this, so I made the compromise.
 
 ```
   componentDidMount() {
@@ -196,8 +196,8 @@ Now, my post preview in NetlifyCMS looks nearly identical to my actual posts. Pe
 
 As a personal blog for a techncially-minded person, this system is pretty nice. It's smooth to operate and yet keeps everything close to the vest. All of my code and content is controlled via git, and I can run everything locally. By using next.js and Vercel, my site is speedy and performant while requiring almost no effort from me. But it's not perfect. I have some things I'd like to improve in the future:
 
-* Somehow get image dimensions from Cloudinary and store that data so I can take advantage of next.js's [built-in image optimization and lazy loading](https://nextjs.org/docs/basic-features/image-optimization). Not using this feature is having the largest impact on performance.
-* Use [preact](https://preactjs.com/) instead of React. I'm not doing anything remotely fancy with react, so this should be straightforward, and it'll cut down on the size of the JS on this site.
-* Setup Netlify CMS properly so I can authenticate and log in on the production site. Right now, I'm doing everything locally. That's fine for now, but ideally, I'd be able to work on content even if I'm not at a computer that has my dev environment set up.
+- Somehow get image dimensions from Cloudinary and store that data so I can take advantage of next.js's [built-in image optimization and lazy loading](https://nextjs.org/docs/basic-features/image-optimization). Not using this feature is having the largest impact on performance.
+- Use [preact](https://preactjs.com/) instead of React. I'm not doing anything remotely fancy with react, so this should be straightforward, and it'll cut down on the size of the JS on this site.
+- Setup Netlify CMS properly so I can authenticate and log in on the production site. Right now, I'm doing everything locally. That's fine for now, but ideally, I'd be able to work on content even if I'm not at a computer that has my dev environment set up.
 
 These are all minor issues though, and I needed to launch. If you want to make use of this system, [all the code is open source](https://github.com/TylerFisher/blog). Feel free to play around!

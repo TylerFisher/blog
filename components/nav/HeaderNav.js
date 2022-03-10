@@ -8,5 +8,5 @@ export default function HeaderNav() {
         <HeaderNavItem label="About" href="/about" ml />
       </ul>
     </nav>
-  )
+  );
 }

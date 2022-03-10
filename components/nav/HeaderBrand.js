@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from "next/link";
 
 export default function HeaderBrand() {
   return (
@@ -9,5 +9,5 @@ export default function HeaderBrand() {
         </a>
       </Link>
     </div>
-  )
+  );
 }

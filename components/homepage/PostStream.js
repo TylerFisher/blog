@@ -1,11 +1,9 @@
-import PostLink from './PostLink';
-import About from './About';
+import PostLink from "./PostLink";
+import About from "./About";
 
 export default function PostStream({ posts, label, about, homeData }) {
   return (
-    <div 
-      className="flex flex-row flex-wrap"
-    >
+    <div className="flex flex-row flex-wrap">
       <section className="max-w-3xl md:w-2/3 w-full">
         <h2 className="items-center flex text-sm tracking-wide mb-8 uppercase after:bg-gray-300 after:flex-grow after:ml-4 after:h-[1px]">
           {label}
@@ -28,6 +26,6 @@ export default function PostStream({ posts, label, about, homeData }) {
           </section>
         </section>
       </aside>
-    </div> 
-  )
+    </div>
+  );
 }

@@ -1,13 +1,11 @@
-import Link from 'next/link';
+import Link from "next/link";
 
 export default function HeaderNavItem({ href, label, ml = false }) {
-  let classStr = `hover:underline text-sm md:text-base ${ml && 'ml-10'}`
+  let classStr = `hover:underline text-sm md:text-base ${ml && "ml-10"}`;
 
   return (
     <li className={classStr}>
-      <Link href={href}>
-        {label}
-      </Link>
-  </li>
-  )
+      <Link href={href}>{label}</Link>
+    </li>
+  );
 }

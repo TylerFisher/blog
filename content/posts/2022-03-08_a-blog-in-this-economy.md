@@ -10,6 +10,7 @@ leadImage:
     Photo by Kristopher Roller / Unsplash"
 category: Posts about posts
 ---
+
 I've been active on the internet since the mid-2000s as a middle schooler. For the past two decades, my access to the internet has always been mediated through platforms.
 
 Back in 2005, I talked to my friends on AIM and journaled inanely about whatever happened in class that day on Xanga. Today, I talk to my friends and colleagues on Slack and journal inanely about whatever happened at work that day on Twitter. Not much has changed, and yet everything has changed.

@@ -6,9 +6,9 @@ export default async function Handler(req, res) {
 
   try {
     const response = await fetch(apiUrl, {
-      method: 'POST',
+      method: "POST",
       headers: {
-        'Content-Type': 'application/json',
+        "Content-Type": "application/json",
         Authorization: `Token ${apiKey}`,
       },
       body: JSON.stringify({

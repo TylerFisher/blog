@@ -21,12 +21,12 @@ module.exports = {
       default_transformations: [
         [
           {
-            "fetch_format": "auto",
-            "quality": "auto"
+            fetch_format: "auto",
+            quality: "auto",
           },
           {
-            "width": 1200,
-            "crop": "fill"
+            width: 1200,
+            crop: "fill",
           },
         ],
       ],
@@ -45,7 +45,7 @@ module.exports = {
             {
               label: "About summary",
               name: "summary",
-              widget: "markdown"
+              widget: "markdown",
             },
             {
               label: "Currently reading",
@@ -55,7 +55,7 @@ module.exports = {
                 {
                   label: "Title",
                   name: "title",
-                  widget: "string"
+                  widget: "string",
                 },
                 {
                   label: "Author",
@@ -65,9 +65,9 @@ module.exports = {
                 {
                   label: "Link",
                   name: "link",
-                  widget: "string"
-                }
-              ]
+                  widget: "string",
+                },
+              ],
             },
             {
               label: "Currently listening",
@@ -77,7 +77,7 @@ module.exports = {
                 {
                   label: "Artist",
                   name: "artist",
-                  widget: "string"
+                  widget: "string",
                 },
                 {
                   label: "Album",
@@ -87,9 +87,9 @@ module.exports = {
                 {
                   label: "Link",
                   name: "link",
-                  widget: "string"
-                }
-              ]
+                  widget: "string",
+                },
+              ],
             },
             {
               label: "Currently playing",
@@ -99,7 +99,7 @@ module.exports = {
                 {
                   label: "Title",
                   name: "title",
-                  widget: "string"
+                  widget: "string",
                 },
                 {
                   label: "Platform",
@@ -109,9 +109,9 @@ module.exports = {
                 {
                   label: "Link",
                   name: "link",
-                  widget: "string"
-                }
-              ]
+                  widget: "string",
+                },
+              ],
             },
           ],
         },
@@ -144,7 +144,7 @@ module.exports = {
       name: "blog",
       folder: "content/posts",
       create: true,
-      slug: '{{year}}-{{month}}-{{day}}_{{slug}}',
+      slug: "{{year}}-{{month}}-{{day}}_{{slug}}",
       fields: [
         {
           label: "Title",
@@ -175,12 +175,12 @@ module.exports = {
             {
               label: "Alt",
               name: "alt",
-              widget: "string"
+              widget: "string",
             },
             {
               label: "Caption",
               name: "caption",
-              widget: "string"
+              widget: "string",
             },
           ],
         },
@@ -214,8 +214,8 @@ module.exports = {
           label: "About",
           name: "about",
           widget: "text",
-        }
-      ]
-    }
+        },
+      ],
+    },
   ],
 };
