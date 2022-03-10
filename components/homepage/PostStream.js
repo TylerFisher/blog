@@ -1,6 +1,7 @@
 import PostLink from './PostLink';
+import About from './About';
 
-export default function PostStream({ posts, label, about }) {
+export default function PostStream({ posts, label, about, homeData }) {
   return (
     <div 
       className="flex flex-row flex-wrap"
@@ -19,7 +20,11 @@ export default function PostStream({ posts, label, about }) {
             About
           </h2>
           <section className="flex flex-col justify-center">
-            <p className="mt-2 leading-normal">{about}</p>
+            {about ? (
+              <p className="mt-2 leading-normal">{about}</p>
+            ) : (
+              <About homeData={homeData} />
+            )}
           </section>
         </section>
       </aside>

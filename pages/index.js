@@ -21,7 +21,7 @@ const importBlogPosts = async () => {
   )
 }
 
-const Home = ({ postsList }) => {
+const Home = ({ postsList, homeData }) => {
   const featuredPost = postsList[0];
   const streamPosts = postsList.slice(1);
   return (
@@ -34,7 +34,7 @@ const Home = ({ postsList }) => {
         <PostStream
           posts={streamPosts}
           label="More Posts"
-          about="A software engineer and journalist running a blog for fun."
+          homeData={homeData}
         />
       </div>
     </Layout>
@@ -43,10 +43,14 @@ const Home = ({ postsList }) => {
 
 export async function getStaticProps() {
   const postsList = await importBlogPosts();
+  const homeData = await import('../content/home.md').catch(
+    () => null
+  )
 
   return {
     props: {
       postsList,
+      homeData: homeData.default.attributes,
     },
   }
 }

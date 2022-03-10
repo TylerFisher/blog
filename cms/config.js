@@ -43,19 +43,75 @@ module.exports = {
           file: "content/home.md",
           fields: [
             {
-              label: "Title",
-              name: "title",
-              widget: "string",
+              label: "About summary",
+              name: "summary",
+              widget: "markdown"
             },
             {
-              label: "Publish date",
-              name: "date",
-              widget: "datetime",
+              label: "Currently reading",
+              name: "reading",
+              widget: "object",
+              fields: [
+                {
+                  label: "Title",
+                  name: "title",
+                  widget: "string"
+                },
+                {
+                  label: "Author",
+                  name: "author",
+                  widget: "string",
+                },
+                {
+                  label: "Link",
+                  name: "link",
+                  widget: "string"
+                }
+              ]
             },
             {
-              label: "Body",
-              name: "body",
-              widget: "markdown",
+              label: "Currently listening",
+              name: "listening",
+              widget: "object",
+              fields: [
+                {
+                  label: "Artist",
+                  name: "artist",
+                  widget: "string"
+                },
+                {
+                  label: "Album",
+                  name: "album",
+                  widget: "string",
+                },
+                {
+                  label: "Link",
+                  name: "link",
+                  widget: "string"
+                }
+              ]
+            },
+            {
+              label: "Currently playing",
+              name: "playing",
+              widget: "object",
+              fields: [
+                {
+                  label: "Title",
+                  name: "title",
+                  widget: "string"
+                },
+                {
+                  label: "Platform",
+                  name: "platform",
+                  widget: "string",
+                },
+                {
+                  label: "Link",
+                  name: "link",
+                  widget: "string"
+                }
+              ]
             },
           ],
         },
