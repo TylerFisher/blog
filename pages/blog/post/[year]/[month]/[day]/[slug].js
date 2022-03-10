@@ -24,7 +24,7 @@ const PostWrapper = ({ post, slug }) => {
           },
           images: [
             {
-              url: attributes.thumbnail,
+              url: attributes.leadImage.image,
             },
           ],
         }}
