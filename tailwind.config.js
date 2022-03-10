@@ -23,7 +23,13 @@ module.exports = {
         '"Noto Color Emoji"',
       ],
     },
-    extend: {},
+    extend: {
+      colors: {
+        orange: {
+          600: '#D74E09',
+        },
+      },
+    },
   },
   plugins: [
     require('@tailwindcss/typography'),
