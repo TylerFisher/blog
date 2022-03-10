@@ -18,7 +18,6 @@ export default function SubscribeForm() {
 
     const statusCode = response.status;
     const data = await response.json();
-    console.log(data);
 
     if (statusCode < 200 || statusCode > 299) {
       setStatus("error");
@@ -49,13 +48,17 @@ export default function SubscribeForm() {
       </div>
       {status !== "success" && (
         <>
-          <label className="text-white block">Email:</label>
+          <label className="text-white block" htmlFor="email">
+            Email:
+          </label>
           <div className="flex flex-row flex-wrap">
             <input
               type="email"
               value={email}
               onChange={(ev) => setEmail(ev.target.value)}
               className="form-input px-4 py-2 rounded-lg w-full md:w-auto"
+              id="email"
+              name="email"
             />
             <input
               type="submit"
