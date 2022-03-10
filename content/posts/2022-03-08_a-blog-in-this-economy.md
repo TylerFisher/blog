@@ -10,7 +10,6 @@ leadImage:
     Photo by Kristopher Roller / Unsplash"
 category: Posts about posts
 ---
-
 I've been active on the internet since the mid-2000s as a middle schooler. For the past two decades, my access to the internet has always been mediated through platforms.
 
 Back in 2005, I talked to my friends on AIM and journaled inanely about whatever happened in class that day on Xanga. Today, I talk to my friends and colleagues on Slack and journal inanely about whatever happened at work that day on Twitter. Not much has changed, and yet everything has changed.
@@ -40,5 +39,3 @@ I realized as the calendar ticked to 2022 that I haven't written anything that w
 If I have a mission for this blog, it is simply to make myself a better communicator and thinker through the practice of writing. As I'm writing this, I can feel how stilted my language is. These muscles are atrophied. I hope, when I look back on this post in a year, I can see an improvement in my prose and my thoughts. Hopefully, I'll be more enjoyable to read too.
 
 I have no parameters on what I'm going to write about. I'd like to push myself to write about more than work and the internet. I like other things, and I don't express that part of myself enough. I hope this blog can be a space for that.
-
-Finally, since I waxed poetic about building your own place online, I want to be clear about something. I didn't build this from scratch; I'm using [Ghost](https://ghost.org). While there was a temptation to build everything on my own, doing so would mean I'd never launch. Ghost handles the stuff I don't want to deal with, like content management and servers. It also lets me publish all my posts as newsletters. Sign up if you want posts from me in your inbox!
