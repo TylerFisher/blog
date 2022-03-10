@@ -9,10 +9,10 @@ export default function FeaturedPost({ post }) {
           <div className="flex flex-row flex-wrap">
             <div className="w-full md:w-1/2 md:pr-8">
               <header>
-                <div className="text-orange-600 text-xs leading-none mb-8 uppercase">
+                <div className="text-orange-600 text-xs leading-none mb-4 uppercase">
                   Latest &ndash; {apdate(new Date(post.attributes.date))}
                 </div>
-                <h2 className="text-4xl md:text-7xl font-bold leading-none tracking-tight hover:underline">
+                <h2 className="text-4xl md:text-5xl lg:text-7xl font-bold leading-none tracking-tight hover:underline">
                   {post.attributes.title}
                 </h2>
               </header>

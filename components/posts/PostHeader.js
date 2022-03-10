@@ -26,7 +26,7 @@ export default function PostHeader({ attributes }) {
       {attributes.leadImage?.image && (
         <figure className="mt-8">
           <img src={attributes.leadImage.image} alt={attributes.leadImage.alt} />
-          <figcaption className="mt-2 text-gray-500 text-lg">{attributes.leadImage.caption}</figcaption>
+          <figcaption className="mt-2 text-gray-500 text-sm">{attributes.leadImage.caption}</figcaption>
         </figure>
       )}
     </header>
