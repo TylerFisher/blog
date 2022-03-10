@@ -6,7 +6,7 @@ require('dotenv').config();
 program.version('0.0.1');
 
 async function sendNewsletter(params) {
-  const apiUrl = process.env.BUTTONDOWN_API_URL;
+  const apiUrl = `${process.env.BUTTONDOWN_API_URL}/emails`;
   const apiToken = process.env.BUTTONDOWN_API_KEY;
   
   // gray-matter parses Markdown files with frontmatter
