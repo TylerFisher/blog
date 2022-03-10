@@ -17,16 +17,16 @@ async function sendNewsletter(params) {
   };
 
   try {
-    // const response = await fetch(apiUrl, {
-    //   method: 'post',
-    //   body: JSON.stringify(newsletterData),
-    //   headers: {
-    //     'Content-Type': 'application/json',
-    //     'Authorization': `Token ${apiToken}`,
-    //   },
-    // });
+    const response = await fetch(apiUrl, {
+      method: 'post',
+      body: JSON.stringify(newsletterData),
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Token ${apiToken}`,
+      },
+    });
   
-    // const respData = await response.json();
+    const respData = await response.json();
   } catch(e) {
     console.log(e);
   }
