@@ -14,10 +14,8 @@ Knowing myself, I will probably have furious spurts of activity here, and then I
 
 ## How'd you build this thing?
 
-I was tempted to build a whole custom website for this, but that was a surefire way of ensuring I'd never launch anything. Instead, this website is built on [Ghost](https://ghost.org), based on one of their free themes called [Journal](https://ghost.org/themes/journal/). Yes, I'm currently building [my own CMS](https://tinynewsco.org/about/resources) for work, but it's not meant for personal blogs, and I've always been fascinated and inspired by Ghost's approach. This felt like a good excuse to try it out (and maybe do a little competitive research).
-
-I'm hosting this on the base [Ghost Pro plan](https://ghost.org/pricing/), which is a pretty good deal considering it configures Mailgun for you. If this grows beyond my wildest dreams I'll have to reconsider, since it gets pricey at a certain member level, but I'll cross that bridge when I get there.
+[I wrote a whole blog post about it](http://localhost:3000/blog/post/2022/03/10/how-i-built-this-website)! [And the repo is open source](https://github.com/TylerFisher/blog)! But here's the short of it: this is a [next.js](https://nextjs.org) application hosted on [Vercel](https://vercel.com). I manage content in [Netlify CMS](https://netlifycms.org), and I manage media assets in [Cloudinary](https://cloudinary.com). My newsletter is published via [Buttondown](https://buttondown.email). All of this is free!
 
 ## There's a newsletter. Should I subscribe?
 
-Yeah, if you want! Ghost will let me send all my posts as newsletter editions, and I'll do that if people sign up. Right now, there's no difference between posts on the site and what will go in the newsletter. Who knows, maybe that'll change? Fair warning though, my topics and frequency are going to vary wildly. Don't sign up expecting a weekly developer blog.
+Yeah, if you want! I send all of my posts as individual newsletters as soon as they're published. Right now, there's no difference between posts on the site and what will go in the newsletter. Who knows, maybe that'll change? Fair warning though, my topics and frequency are going to vary wildly. Don't sign up expecting a weekly developer blog.
