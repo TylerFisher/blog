@@ -6,6 +6,11 @@ export default {
     locale: "en_US",
     url: "https://www.tylerjfisher.com/",
     site_name: "Tyler Fisher",
+    images: [
+      {
+        url: "https://www.tylerjfisher.com/static/img/share.png",
+      },
+    ],
   },
   twitter: {
     handle: "@tylrfishr",
