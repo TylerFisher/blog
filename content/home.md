@@ -8,13 +8,13 @@ reading:
   author: Bertrand Russell
   link: https://bookshop.org/books/a-history-of-western-philosophy/9780671201586
 listening:
-  artist: Vein.fm
-  album: This World Is Going To Ruin You
-  link: https://veinband.bandcamp.com/album/this-world-is-going-to-ruin-you
+  artist: Nia Archives
+  album: Forbidden Feelingz
+  link: https://niaarchives.bandcamp.com/track/forbidden-feelingz
 playing:
-  title: Horizon Forbidden West
+  title: Elden Ring
   platform: PS5
-  link: https://www.playstation.com/en-us/games/horizon-forbidden-west/
+  link: https://www.playstation.com/en-us/games/elden-ring/
 ---
 
 ## Welcome to the Home Page
