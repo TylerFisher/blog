@@ -10,7 +10,6 @@ leadImage:
   caption: Get you a terminal that looks like this!
 category: Writing code
 ---
-
 Over the past couple of months, I've had to set up multiple macOS computers for web development work. In the process, I've learned about a few tools that make the process much less painful than it used to be. So, in the spirit of the NPR Visuals Team's [immortal dev setup blog post](https://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html), I thought I'd share my process as it exists in early 2022.
 
 This process takes me less than an hour to complete. No more wasting a whole day on setup!
@@ -19,10 +18,10 @@ This process takes me less than an hour to complete. No more wasting a whole day
 
 Here's what I'm looking for in a development environment:
 
-- **Command line tools**: The command line is the center of my system. I use the command line to run dev servers, interact with version control, open my text editor, and navigate around my filesystem. Thus, my development environment should emphasize command line tools whenever possible.
-- **Language-agnostic**: Currently, I do my work in JavaScript/Node.js, with the occasional Python project along the way. My tooling is geared towards these languages, but as we'll see, my general setup is pretty language-agnostic. I might have to work on a PHP project or a Ruby project someday, and I don't want to have to change my whole setup when that happens.
-- **No fuss**: I don't like configuring tools a bunch with third-party plugins and extensions. Inevitably, that stuff breaks at inconvenient times and makes my life more frustrating. The more I can use out-of-the-box, the better.
-- **Speed rules**: All my tools should be fast. I can't stand lag when I work with programming tools. Code is plain text! We should be capable of working with plain text without hammering our processors.
+* **Command line tools**: The command line is the center of my system. I use the command line to run dev servers, interact with version control, open my text editor, and navigate around my filesystem. Thus, my development environment should emphasize command line tools whenever possible.
+* **Language-agnostic**: Currently, I do my work in JavaScript/Node.js, with the occasional Python project along the way. My tooling is geared towards these languages, but as we'll see, my general setup is pretty language-agnostic. I might have to work on a PHP project or a Ruby project someday, and I don't want to have to change my whole setup when that happens.
+* **No fuss**: I don't like configuring tools a bunch with third-party plugins and extensions. Inevitably, that stuff breaks at inconvenient times and makes my life more frustrating. The more I can use out-of-the-box, the better.
+* **Speed rules**: All my tools should be fast. I can't stand lag when I work with programming tools. Code is plain text! We should be capable of working with plain text without hammering our processors.
 
 ## Step 0: Are you an administrator?
 
@@ -71,7 +70,7 @@ To double-check everything is working, run `brew doctor`.
 
 So far, this process has been pretty standard. Here's where I stray from convention.
 
-I primarily work with JavaScript and node.js, but sometimes I work in Python. It's not inconceivable that someday I'll need to work with other programming languages. For years, installing a new programming language meant learning a whole new set of developer tools for how to _properly_ install a programming language and not blow up your whole environment. I'd use `pyenv` to manage Python installations, `n` to manage node.js installations, `rbenv` for Ruby, etc. They all had different APIs and interfaces, and managing them all was a pain.
+I primarily work with JavaScript and node.js, but sometimes I work in Python. It's not inconceivable that someday I'll need to work with other programming languages. For years, installing a new programming language meant learning a whole new set of developer tools for how to *properly* install a programming language and not blow up your whole environment. I'd use `pyenv` to manage Python installations, `n` to manage node.js installations, `rbenv` for Ruby, etc. They all had different APIs and interfaces, and managing them all was a pain.
 
 Enter [asdf](https://asdf-vm.com/), which solves this problem neatly with a one-size-fits-all runtime management solution. It's easy to install. Use Homebrew:
 
@@ -101,7 +100,9 @@ Then, install the plugin:
 asdf plugin add nodejs https://github.com/asdf-vm/asdf-nodejs.git
 ```
 
-Next, install the version of the language you want. Asdf exposes a `latest` option to get the latest version of the language, but with node.js, I use the LTS version. See [here](https://nodejs.org/en/about/releases/) for how node.js manages releases and why you might want to do that too. You can go to the [node.js homepage](https://nodejs.org/en/) to find the latest LTS version number. As of this writing, it's 16.14.0. Install the version like so:
+Next, install the version of the language you want. Asdf exposes a `latest` option to get the latest version of the language, but with node.js, I use the long-term support (LTS) version. The node.js team maintains two versions of node.js at all times: the "current" version where they work on experimental new features, and the "LTS" version that is recommended for use in production. See [here](https://nodejs.org/en/about/releases/) for more information.
+
+You can go to the [node.js homepage](https://nodejs.org/en/) to find the latest LTS version number. As of this writing, it's 16.14.0. Install the version like so:
 
 ```
 asdf install nodejs 16.14.0
@@ -175,7 +176,7 @@ Now that we have pipx, we can install [pipenv](https://pipenv.pypa.io/en/latest/
 pipx install pipenv
 ```
 
-Now, whenever you're working on a Python project, you can use pipenv to automate the creation of virtual environments for each project. Thanks to pipx, your pipenv installation also won't get in the way of any other versions of Python you might need to install on your computer. At least, until Apple releases an update that breaks everyone's Python installations. _Deep, long sigh_.
+Now, whenever you're working on a Python project, you can use pipenv to automate the creation of virtual environments for each project. Thanks to pipx, your pipenv installation also won't get in the way of any other versions of Python you might need to install on your computer. At least, until Apple releases an update that breaks everyone's Python installations. *Deep, long sigh*.
 
 ### A nice color scheme
 
