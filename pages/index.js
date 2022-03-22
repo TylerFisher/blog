@@ -9,7 +9,8 @@ const importBlogPosts = async () => {
   const markdownFiles = require
     .context("../content/posts", false, /\.md$/)
     .keys()
-    .map((relativePath) => relativePath.substring(2));
+    .map((relativePath) => relativePath.substring(2))
+    .reverse();
 
   return Promise.all(
     markdownFiles.map(async (path) => {

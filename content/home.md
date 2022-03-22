@@ -8,9 +8,9 @@ reading:
   author: Bertrand Russell
   link: https://bookshop.org/books/a-history-of-western-philosophy/9780671201586
 listening:
-  artist: Nia Archives
-  album: Forbidden Feelingz
-  link: https://niaarchives.bandcamp.com/track/forbidden-feelingz
+  artist: Rosalía
+  album: Motomami
+  link: https://www.youtube.com/playlist?list=PLN3HOJ-INNEKW5CbU9NjhIloc_y4pPLs3
 playing:
   title: Elden Ring
   platform: PS5
