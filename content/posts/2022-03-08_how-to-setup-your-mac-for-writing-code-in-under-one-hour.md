@@ -111,7 +111,7 @@ asdf install nodejs 16.14.0
 Finally, set your global version to the version you just installed:
 
 ```
-asdf global node.js 16.14.0
+asdf global nodejs 16.14.0
 ```
 
 Repeat this process for all the languages you plan to use. I use [this plugin](https://github.com/danhper/asdf-python) for Python.
@@ -168,7 +168,7 @@ First, I install [pipx](https://github.com/pypa/pipx). Pipx is a tool for instal
 pip install --user pipx
 ```
 
-Then, restart your terminal and run `pipx ensurepath` to make sure you have the location where pipx installs applications on your $PATH.
+Then, restart your terminal and run `python3 -m pipx ensurepath` to make sure you have the location where pipx installs applications on your $PATH.
 
 Now that we have pipx, we can install [pipenv](https://pipenv.pypa.io/en/latest/) to ensure pip never installs our project dependencies globally. Confused yet? Me too.
 
