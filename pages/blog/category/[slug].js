@@ -56,7 +56,7 @@ export async function getStaticProps({ params }) {
   return {
     props: {
       category: category.default,
-      posts: inCategory,
+      posts: inCategory.reverse(),
       slug: slug,
     },
   };
