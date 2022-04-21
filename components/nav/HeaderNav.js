@@ -6,6 +6,7 @@ export default function HeaderNav() {
       <ul className="inline-flex items-center list-none m-0 p-0">
         <HeaderNavItem label="Home" href="/" />
         <HeaderNavItem label="About" href="/about" ml />
+        <HeaderNavItem label="Portfolio" href="/portfolio" ml />
       </ul>
     </nav>
   );

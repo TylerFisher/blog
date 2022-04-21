@@ -137,6 +137,90 @@ module.exports = {
             },
           ],
         },
+        {
+          label: "Portfolio",
+          name: "portfolio",
+          file: "content/portfolio.md",
+          fields: [
+            {
+              label: "Title",
+              name: "title",
+              widget: "string",
+            },
+            {
+              label: "Summary",
+              name: "summary",
+              widget: "markdown",
+            },
+            {
+              label: "Projects",
+              name: "projects",
+              widget: "list",
+              summary: "{{fields.title}}",
+              fields: [
+                {
+                  label: "Title",
+                  name: "title",
+                  widget: "string",
+                  required: true,
+                },
+                {
+                  label: "Description",
+                  name: "description",
+                  widget: "markdown",
+                  required: true,
+                },
+                {
+                  label: "Published date",
+                  name: "published_date",
+                  widget: "string",
+                  required: true,
+                },
+                {
+                  label: "URL",
+                  name: "url",
+                  widget: "string",
+                  required: false,
+                },
+                {
+                  label: "Repository",
+                  name: "repo",
+                  widget: "string",
+                  required: false,
+                },
+                {
+                  label: "Technologies used",
+                  name: "tech",
+                  widget: "text",
+                  required: true,
+                },
+                {
+                  label: "Image",
+                  name: "image",
+                  widget: "object",
+                  required: true,
+                  fields: [
+                    {
+                      label: "Image",
+                      name: "image",
+                      widget: "image",
+                    },
+                    {
+                      label: "Alt",
+                      name: "alt",
+                      widget: "string",
+                    },
+                    {
+                      label: "Caption",
+                      name: "caption",
+                      widget: "string",
+                    },
+                  ],
+                },
+              ],
+            },
+          ],
+        },
       ],
     },
     {
