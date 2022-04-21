@@ -23,7 +23,7 @@ const Portfolio = () => (
       </header>
       <div>
         {attributes.projects.map((p, i) => (
-          <Project project={p} i={i} converter={converter} />
+          <Project project={p} i={i} converter={converter} key={i} />
         ))}
       </div>
     </article>
