@@ -40,7 +40,7 @@ I'm [quoted in a book about Elliott Smith](https://www.google.com/books/edition/
 
 I was once asked in an interview for an academic opportunity why I gave Pink Floyd's *Dark Side of the Moon* a 3/5 (answer: because it sucks but I was too scared to give it a worse score).
 
-I'm on the Wikipedia pages for not only *Thriller*, but [Linkin Park's *Hybrid Theory*](https://en.wikipedia.org/wiki/Hybrid_Theory), Jay-Z and Kanye West's *[Watch the Throne](https://en.wikipedia.org/wiki/Watch_the_Throne)*, and countless less famous albums. On most pages, Sputnik is the clear outlier in the reviews listed: a lot of proper, professional sources and our weird site. Of the many minor music blogs on the internet from the mid-2000s, Sputnik won the SEO game, and that victory gives it a lasting legacy via Wikipedia.
+I'm on the Wikipedia pages for not only *Thriller*, but [Linkin Park's *Hybrid Theory*](https://en.wikipedia.org/wiki/Hybrid_Theory), Jay-Z and Kanye West's *[Watch the Throne](https://en.wikipedia.org/wiki/Watch_the_Throne)*, and countless less famous albums. Of the many minor music blogs on the internet from the mid-2000s, Sputnik won the SEO game, and that victory gives it a lasting legacy via Wikipedia.
 
 Because of Google's monopoly on search results, good SEO is power and currency. A mediocre essay I wrote when I was 15 lives on in infamy on the Wikipedia page for the best-selling album of all-time, all because the site I published on had good SEO.
 
