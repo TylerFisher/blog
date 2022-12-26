@@ -12,11 +12,11 @@ export default function FeaturedPost({ post }) {
                 <div className="text-orange-600 text-xs leading-none mb-4 uppercase">
                   Latest &ndash; {apdate(new Date(post.attributes.date))}
                 </div>
-                <h2 className="text-4xl md:text-5xl lg:text-7xl font-bold leading-none tracking-tight hover:underline">
+                <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-none tracking-tight hover:underline">
                   {post.attributes.title}
                 </h2>
               </header>
-              <p className="text-xl md:text-3xl mt-6 max-w-4xl">
+              <p className="text-xl md:text-2xl mt-6 max-w-4xl">
                 {post.attributes.description}
               </p>
             </div>
