@@ -4,17 +4,17 @@ date: 2019-03-17T19:31:20.591Z
 summary: Hi, I'm Tyler. I'm a software engineer and journalist trying to
   rediscover writing through blogging.
 reading:
-  title: The Philosophy of Marx
-  author: Etienne Balibar
-  link: https://www.versobooks.com/books/2264-the-philosophy-of-marx
+  title: The Free World
+  author: Louis Menand
+  link: https://bookshop.org/p/books/the-free-world-art-and-thought-in-the-cold-war-louis-menand/14652080
 listening:
-  artist: Spiritbox
-  album: Rotoscope
-  link: https://www.youtube.com/watch?v=Wpl28kp5WVA&list=PLKcGEIO7V0rWYnWn3yp_E5tdqUNyQuWYX
+  artist: Pinkshift
+  album: Love Me Forever
+  link: https://pinkshift.bandcamp.com/album/love-me-forever
 playing:
-  title: Neon White
-  platform: Nintendo Switch
-  link: https://www.nintendo.com/store/products/neon-white-switch/
+  title: Elden Ring
+  platform: PS5
+  link: https://www.playstation.com/en-us/games/elden-ring/
 ---
 
 ## Welcome to the Home Page
