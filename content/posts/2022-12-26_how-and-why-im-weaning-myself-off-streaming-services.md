@@ -9,7 +9,8 @@ leadImage:
     pumpkin in an autumnal scene "
 category: Music on the internet
 ---
-The first song I downloaded illegally was Blink 182's ["Man Overboard"](https://www.youtube.com/watch?v=-6WmSZyDysA), a studio cut released as part of the promotion for their live album, 2000's *The Mark, Tom, and Travis Show (The Enema Strikes Back!)*. I was 9, and I downloaded it on Napster. My mom was very upset with me, not because of the illegal download, but because Mark Hoppus sang the line, "'Cause in the end, it's fucking useless."
+
+The first song I downloaded illegally was blink-182's ["Man Overboard"](https://www.youtube.com/watch?v=-6WmSZyDysA), a studio cut released as part of the promotion for their live album, 2000's _The Mark, Tom, and Travis Show (The Enema Strikes Back!)_. I was 9, and I downloaded it on Napster. My mom was very upset with me, not because of the illegal download, but because Mark Hoppus sang the line, "'Cause in the end, it's fucking useless."
 
 Regardless, I was hooked. I spent the next decade of my life downloading music incessantly, moving from peer-to-peer networks like Napster and Soulseek to file sharing sites like Mediafire and Megaupload. I filled my iPods to the brim and carried 100GB's worth of mp3s with me to college on an external hard drive. And I built a terrible habit of not paying artists for their work. This year, I wanted to change that.
 
@@ -23,7 +24,7 @@ However, streaming is a false messiah. Calculating an accurate "payment per stre
 
 ## Why we must match the convenience of streaming
 
-What streaming has delivered is the ultimate experience for music listeners: nearly all of the world's music, instantly accessible on all devices, for the price of one CD per month. The technological progress streaming services have made — in tandem with the hardware manufacturers of smart speakers, phones, TVs, cars, and more — is undeniable. And the ability to easily try new music before you buy is a win for the listener. 
+What streaming has delivered is the ultimate experience for music listeners: nearly all of the world's music, instantly accessible on all devices, for the price of one CD per month. The technological progress streaming services have made — in tandem with the hardware manufacturers of smart speakers, phones, TVs, cars, and more — is undeniable. And the ability to easily try new music before you buy is a win for the listener.
 
 It's easy to stake some moral high ground and simply demand people buy all their music to support artists. But any movement to tilt the scales back in artists' favor has to contend with the convenience streaming music has introduced. Maintaining a collection of CDs, vinyl, or digital files is far more cumbersome than just using Spotify.
 
@@ -73,7 +74,7 @@ Once I have gotten the new files to my Roon Core, it will attempt to match metad
 
 ![A screenshot of Roon's homepage, showing that I have 547 artists, 1,074 albums, 12,915 tracks, and 9 composers saved to my library.](https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1672096610/Screenshot_2022-12-26_at_6.16.29_PM_ijpjky.png)
 
-To satisfy feature #5, showing me some stats about my listening, Roon goes above and beyond. To start, Roon's UI is *beautiful*. It is my favorite music player I have ever used, surpassing even the dearly departed Rdio. Yes, it does the basic stats well. It'll tell me, week by week, who I listened to the most, and roll that up into telling me what genres of music I spent the most time with.
+To satisfy feature #5, showing me some stats about my listening, Roon goes above and beyond. To start, Roon's UI is _beautiful_. It is my favorite music player I have ever used, surpassing even the dearly departed Rdio. Yes, it does the basic stats well. It'll tell me, week by week, who I listened to the most, and roll that up into telling me what genres of music I spent the most time with.
 
 ![A screenshot of Roon's interface telling me what I've been listening to in the last year](https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1672097742/Screenshot_2022-12-26_at_6.35.08_PM_yoipjf.png)
 
