@@ -15,6 +15,7 @@
     "@fontsource/poppins": "^4.5.2",
     "commander": "^9.0.0",
     "dotenv": "^16.0.0",
+    "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
     "journalize": "^2.5.1",
     "netlify-cms-app": "^2.15.67",

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Posts | Tyler Fisher</title>
+        <link>https://www.tylerjfisher.com</link>
+        <description>All posts from www.tylerjfisher.com</description>
+        <lastBuildDate>Sat, 31 Dec 2022 19:42:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Posts | Tyler Fisher</title>
+            <url>https://www.tylerjfisher.com/static/img/share.png</url>
+            <link>https://www.tylerjfisher.com</link>
+        </image>
+        <copyright>All rights reserved 2022</copyright>
+        <item>
+            <title><![CDATA[Some things I'm looking forward to in 2023]]></title>
+            <link>https://www.tylerjfisher.com/blog/post/2022/12/31/some-things-im-looking-forward-to-in-2023</link>
+            <guid>https://www.tylerjfisher.com/blog/post/2022/12/31/some-things-im-looking-forward-to-in-2023</guid>
+            <pubDate>Sat, 31 Dec 2022 00:04:51 GMT</pubDate>
+            <description><![CDATA[Posi vibes only.]]></description>
+            <content:encoded><![CDATA[<p>The first thing I did in 2022 was sign up for therapy. I was not in a good place. I'm doing much better now, in no small part thanks to said therapy. As 2023 approaches, I'm taking a much more hopeful approach. Here's some things that are keeping my spirits up:</p>
+<ul>
+<li><strong>A new digital life</strong>: &quot;The world is changed.&quot; Obviously, Twitter beginning its slow descent into a ghost town will have a major impact on my internet habits. I'm on Mastodon more and more. Hopefully I'll write here as well. But it's not just social media. I'm using <a href="https://arc.net/">a new browser</a>, <a href="https://readwise.io/read">a new RSS/read it later service</a>, and <a href="https://www.tylerjfisher.com/blog/post/2022/12/26/how-and-why-im-weaning-myself-off-streaming-services">a new music setup I wrote about last week</a>. For the first time in years, it feels novel and new to use my computer. I'm looking forward to changing my habits and discovering better ways of being online. The internet should never feel static.</li>
+<li><strong>Learning my new city</strong>: This fall, I moved to Cleveland. My wife is from here, but it's all new to me. As a card-carrying member of the coastal elite, I'm learning to embrace the excitement behind a term like &quot;<a href="https://upittpress.org/books/9780822945635/">legacy cities</a>.&quot; Driving around Cleveland, you can see the decay and abandonment, with vacant properties strewn across the city. Cleveland's population peaked in the 1950s at nearly a million people. Roughly a third of that number live here now. But there is also the hope of renewal, the opportunity that maybe we can get some things right this time. I'll never be more than an interloper, but I hope to participate with that spirit this year. Cleveland has been nothing but wonderful to me so far. Come get a <a href="https://en.wikipedia.org/wiki/Polish_Boy">Polish Boy</a>!</li>
+<li><strong>Getting an ebike</strong>: I'm planning on getting my True Kvlt Urbanist Badge this spring by purchasing an ebike. I'm hoping it has a positive impact on both my health by getting me outside and my experience of Cleveland by encouraging me to go more places without my car. I don't know what bike I'm going to buy yet, so I'm taking suggestions. Hit me up on <a href="https://social.tylerjfisher.com/@tylrfishr">Mastodon</a> or <a href="https://twitter.com/tylrfishr">Twitter</a> with your ebike takes.</li>
+<li><strong>A year without burnout</strong>: I burned out twice this year. First, I burned out while building the <a href="https://tinynewsco.org/">Tiny News Collective</a>. It is the sole reason why I left a project I love so much. Then I joined the Post's elections team three months before a general and in the middle of moving to a new city. Getting up to speed and getting everything ready for November was <em>a lot</em> of work, and unsurprisingly, I burned out again. But the benefit of being on a permanent elections team is the off-cycle years. This year, we get to build with less deadline pressure, with the intention of making 2024 easier on ourselves and more useful to our readers. I've never had this opportunity before; usually elections work starts when the cycle starts, a continuous sprint the length of a marathon.</li>
+<li><strong>More travel</strong>: We're still in a pandemic, but I'm starting to understand how to navigate this world while taking the proper precautions (please wear a mask, for yourself and for others). Already, I have plans to be in Seattle, Nashville, and Chicago this year. I'm hoping to book more as the year goes on. Hope to see you there!</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1672445376/stephen-leonardi-vzjbwzBljIo-unsplash_riexwz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How and why I'm weaning myself off streaming services]]></title>
+            <link>https://www.tylerjfisher.com/blog/post/2022/12/26/how-and-why-im-weaning-myself-off-streaming-services</link>
+            <guid>https://www.tylerjfisher.com/blog/post/2022/12/26/how-and-why-im-weaning-myself-off-streaming-services</guid>
+            <pubDate>Mon, 26 Dec 2022 23:00:07 GMT</pubDate>
+            <description><![CDATA[Streaming does not support the artists I love, so I'm trying something else.]]></description>
+            <content:encoded><![CDATA[<p>The first song I downloaded illegally was blink-182's <a href="https://www.youtube.com/watch?v=-6WmSZyDysA">&quot;Man Overboard&quot;</a>, a studio cut released as part of the promotion for their live album, 2000's <em>The Mark, Tom, and Travis Show (The Enema Strikes Back!)</em>. I was 9, and I downloaded it on Napster. My mom was very upset with me, not because of the illegal download, but because Mark Hoppus sang the line, &quot;'Cause in the end, it's fucking useless.&quot;</p>
+<p>Regardless, I was hooked. I spent the next decade of my life downloading music incessantly, moving from peer-to-peer networks like Napster and Soulseek to file sharing sites like Mediafire and Megaupload. I filled my iPods to the brim and carried 100GB's worth of mp3s with me to college on an external hard drive. And I built a terrible habit of not paying artists for their work. This year, I wanted to change that.</p>
+<p>In short, I'm using <a href="https://roonlabs.com/">Roon</a> as a personal music server that I can access anywhere. The rest of this post details why it's the right thing for me, and how I set it up.</p>
+<h2>Why streaming isn't the answer</h2>
+<p>Today, streaming services dominate music consumption. <a href="https://www.cbsnews.com/news/streaming-tops-radio-as-the-top-way-to-listen-to-music/">A 2021 CBS News poll</a> found that 41% of Americans, and the majority of young people, use streaming services to listen to music. Streaming services like Spotify pitch themselves as the legal, ethical alternative to file sharing. You get easy access to music, the artists get paid.</p>
+<p>However, streaming is a false messiah. Calculating an accurate &quot;payment per stream&quot; on a service like Spotify is nearly impossible, but the number is miniscule. <a href="https://pudding.cool/2022/06/streaming/">This Pudding essay</a> does a great job explaining why. Suffice to say, most artists get paid so little through streaming that it makes little improvement over file sharing on the economic conditions for artists.</p>
+<h2>Why we must match the convenience of streaming</h2>
+<p>What streaming has delivered is the ultimate experience for music listeners: nearly all of the world's music, instantly accessible on all devices, for the price of one CD per month. The technological progress streaming services have made — in tandem with the hardware manufacturers of smart speakers, phones, TVs, cars, and more — is undeniable. And the ability to easily try new music before you buy is a win for the listener.</p>
+<p>It's easy to stake some moral high ground and simply demand people buy all their music to support artists. But any movement to tilt the scales back in artists' favor has to contend with the convenience streaming music has introduced. Maintaining a collection of CDs, vinyl, or digital files is far more cumbersome than just using Spotify.</p>
+<p>An ethical, modern music collection needs the following features to compete:</p>
+<ol>
+<li>A well-supported app ecosystem that ensures I can play music anywhere I am, through any device I might own</li>
+<li>The ability to seamlessly switch between &quot;try&quot; and &quot;buy&quot;, between streaming music I don't own and playing music I do own</li>
+<li>The ability to import music files from many sources</li>
+<li>A matching service for file metadata</li>
+<li>Some stats. Spotify Wrapped makes me jealous.</li>
+</ol>
+<h2>Introducing Roon</h2>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1672096339/how_roon_works-get_started-laptop-1_w2iopm.png" alt="A screenshot of Roon's &quot;In their prime&quot; career summary feature, showing David Bowie's career"></p>
+<p>For those willing to do a little extra work, <a href="https://roonlabs.com/">Roon</a>, a suite of music software aimed at audiophiles, hits all of these marks. This fall, I built myself a Roon server to manage my music collection, and I couldn't be happier. But it is complicated software to understand and set up, so I'm going to explain how Roon meets the needs detailed above and how I set it up.</p>
+<p>Roon is more complicated than a streaming service. At its most basic, Roon is a music server. You install it on a computer and let it run on that computer at all times. Roon makes itself accessible on your local network so that any network-connected device can play music off of the server. Roon calls this your &quot;Roon Core.&quot; You can run Roon Core on Windows, Mac, or Linux.</p>
+<p>Roon also provides apps for Windows, Mac, Linux, iOS, and Android that let you access your Core on your network and control it. Roon calls this &quot;Roon Remote.&quot; From your Remote, you can play audio on the remote device itself, but you can also control other network devices. Roon has a protocol called &quot;<a href="https://roonlabs.com/partners">Roon Ready</a>&quot; that allows it to talk with select network players, but it also works with any Chromecast, Airplay or Sonos devices on your network. You can even setup multi-room playback across all those different services. It's pretty powerful.</p>
+<h2>Feature one: access anywhere</h2>
+<p>Roon goes much further than local network access. Most appealingly for our needs, Roon can also set your Core to be accessible to the outside world. You can then use another mobile app, <a href="https://apps.apple.com/app/roon-arc/id1555549544">Roon Arc</a>, to access your Core from anywhere you have an internet connection. That means your Roon Core serves as your own personal streaming server, making your personal music collection just as accessible as your Spotify account.</p>
+<p>(Technical sidenote: <a href="https://help.roonlabs.com/portal/en/kb/articles/arc-port-forwarding#Confirm_that_automatic_configuration_is_enabled">Roon uses either UPnP or manual port forwarding for this</a>. You can decide for yourself whether you're comfortable with a server being accessible on your home network in this way. I set up manual port forwarding on my router. I'd encourage you to read <a href="https://community.roonlabs.com/t/security-with-roon-arc-roon-2-0/206917/35">this thread</a> on the Roon forums for more info.)</p>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1672096493/Screenshot_2022-12-26_at_6.14.35_PM_fmspcx.png" alt="A screenshot of Roon's audio device setup page"></p>
+<p>By setting up a Roon Core, you can access Roon on your own network via Roon Remote, which can send music to any Airplay, Chromecast, Sonos, or Roon Ready-connected device on your network. Then, by using Roon Arc, you can access your Roon Core from anywhere you have an internet connection: in the car, on the train, even at your friend's house when they hand you the aux. For times you're not online, like on a plane, you can download files via Arc from your Core directly to your phone for offline listening. This satisfyingly solves our first necessary feature: a well-supported app ecosystem that ensures I can play music anywhere I am, through any device I might own. I wish the Remote app and Arc app were just the same thing, but it's not too cumbersome.</p>
+<h2>Feature two: try before you buy</h2>
+<p>Roon can access music via two different routes: a locally connected hard drive or a streaming service. Yes, Roon works with streaming services, specifically <a href="https://tidal.com/">Tidal</a> and <a href="https://www.qobuz.com/us-en/discover">Qobuz</a>. As Roon is audiophile-focused software, they've focused on streaming services where you can stream hifi audio. Tidal and Qobuz don't have quite the library coverage of a Spotify or Apple Music, but they get pretty damn close. I use Qobuz in tandem with Roon.</p>
+<p>Thus, within the same application, you can try before you buy. Roon seamlessly integrates your local files with either or both of the streaming services you have an account with. This satisfies our second necessary feature: the ability to seamlessly switch between &quot;try&quot; and &quot;buy&quot;.</p>
+<h2>Feature three: import my files</h2>
+<p>By simply integrating with external USB storage, you can bring files from any source. Roon mounts any storage connected to the Core as a network drive, so you can connect via SMB and add the music yourself. I admit, this is a bit cumbersome. I wish Roon could provide a form through the remote UI where I could choose files on my local machine, and it would handle the upload process for me. But it works well enough to satisfy necessary feature #3: the ability to import music files from many sources.</p>
+<h2>Feature four: match metadata</h2>
+<p>Once I have gotten the new files to my Roon Core, it will attempt to match metadata for you against its own database. In my experience so far, it has found a match 100% of the time. You do have to click through some manual UI for each individual album to get there, and I wish this process was a little more seamless. Still, I didn't have to edit ID3 tags manually like it was 2005, so this is a win for me. Consider feature #4 satisfied: A matching service for file metadata.</p>
+<h2>Feature five: show me stats</h2>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1672096610/Screenshot_2022-12-26_at_6.16.29_PM_ijpjky.png" alt="A screenshot of Roon's homepage, showing that I have 547 artists, 1,074 albums, 12,915 tracks, and 9 composers saved to my library."></p>
+<p>To satisfy feature #5, showing me some stats about my listening, Roon goes above and beyond. To start, Roon's UI is <em>beautiful</em>. It is my favorite music player I have ever used, surpassing even the dearly departed Rdio. Yes, it does the basic stats well. It'll tell me, week by week, who I listened to the most, and roll that up into telling me what genres of music I spent the most time with.</p>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1672097742/Screenshot_2022-12-26_at_6.35.08_PM_yoipjf.png" alt="A screenshot of Roon's interface telling me what I've been listening to in the last year"></p>
+<p>But Roon does far more than that. It has an enormous database of music knowledge and matches your library to it. It can trace cover versions back to the original source. It knows who produced, mixed, and mastered your music. It can tell you, for example, that legendary mastering engineer <a href="https://en.wikipedia.org/wiki/Greg_Calbi">Greg Calbi</a> has mastered 47 albums in your library. Then, you can go to Greg Calbi's page, and it'll pull his Wikipedia bio for you, and you can browse his entire discography (thousands of albums!) via streaming. And that's just one of many rabbit holes you can go down. It's a treasure trove of knowledge, and I've already learned more about the music I love.</p>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1672096726/Screenshot_2022-12-26_at_6.18.21_PM_t9ch7c.png" alt="A screenshot of Greg Calbi's Roon page"></p>
+<p>There are so many little details I love about Roon's UI (and a couple that drive me nuts), but this blog is getting too long already, and I have a few more points to hit.</p>
+<h2>My Roon setup</h2>
+<p>The hardest part of getting started with Roon is setting up the Core. You need a computer that can run Roon at all times and stay connected to your network (preferably via ethernet). For this reason, I don't recommend using your everyday laptop. Thankfully, Roon Core doesn't use much power and can run on Windows, Mac, or Linux, so you can use an older computer if you have one around. You can read the system requirements, but generally you'll need 8GB of RAM, an SSD, and at least an Intel i3 processor.</p>
+<p>I felt like making it a little harder on myself, so I used a special Linux distro Roon built called <a href="https://help.roonlabs.com/portal/en/kb/articles/roon-optimized-core-kit#So_what_is_Roon_Optimized_Core_Kit_ROCK_then">ROCK</a>. ROCK is built to install on an <a href="https://www.intel.com/content/www/us/en/products/details/nuc.html">Intel NUC</a>, an affordable mini-PC. <a href="https://help.roonlabs.com/portal/en/kb/articles/roon-optimized-core-kit#What_hardware_does_ROCK_run_on">Roon will point you to the correct NUC model to buy</a>, along with matching RAM and SSD; I followed their advice. Make sure you also have a small thumb drive around to install the OS.</p>
+<p>Once all that arrived, I assembled my NUC by installing the RAM and SSD. Then, I followed <a href="https://help.roonlabs.com/portal/en/kb/articles/rock-install-guide#1_Prepare_your_NUCs_hardware">Roon's docs</a> for installing ROCK. It entailed setting up the NUC BIOS to boot from the SSD, flashing ROCK from a separate USB drive to the SSD, and install ffmpeg on the server. It took a few tries, and my NUC's BIOS settings ended up not matching the Roon docs exactly (namely, I couldn't set up the boot order properly until I had flashed ROCK to the SSD), but once I got it working, I haven't had to touch my NUC since. It's been running for nearly two months without interruption.</p>
+<p>I have a 1 GB external <a href="https://www.westerndigital.com/products/portable-drives/wd-my-passport-usb-3-2-ssd#WDBAGF0010BGD-WESN">Western Digital SSD</a> connected to the NUC for music storage, and I have the NUC setup next to my router, connected via ethernet.</p>
+<p>In the same room, I have a home theater/listening room setup, and all of that is powered by a <a href="https://www.bluesound.com/products/node/">Bluesound Node</a>. The NUC is connected to the Node via Ethernet. The Node also accepts connections from my TV via HDMI, and my turntable via the analog input. Then, I send those signals to a pair of powered Genelec monitors and an SVS subwoofer. I might talk about designing that room in a separate post.</p>
+<p>Roon can also connect to other devices on the network, including my laptop's standard output, my phone, and any Chromecast/Airplay-enabled device in my house. So anywhere music plays in my house, Roon controls it. When I leave the house, I use Roon Arc to access my core and stream music through my phone.</p>
+<h2>How I try and buy music</h2>
+<p>Remember, the point of all this was to build a more ethical way of listening to digital music. There is no cheap streaming service that will suffice. You have to buy the music. I buy in a few different ways:</p>
+<ol>
+<li><strong><a href="https://bandcamp.com/">Bandcamp</a></strong>: Despite <a href="https://www.tylerjfisher.com/blog/post/2022/03/22/epics-purchase-of-bandcamp-leaves-independent-music-in-the-cold">my criticism of Epic Games' purchase of Bandcamp</a>, it remains the best place to buy music on the internet. These days, most of the music I listen to is there, though they don't have most major artists. If you listen to independent music of any kind, they're probably on Bandcamp now. Once you purchase on Bandcamp, you can download the files and send them to your Roon server.</li>
+<li>Vinyl: I still love buying vinyl and collecting it. Now, with Roon, I can rip my vinyl to digital files and preserve it on my Roon server. Admittedly, I haven't done this yet! But my turntable has a USB output and I plan to do it soon once I make sure my turntable is properly setup to get a high-quality rip.</li>
+<li><a href="https://www.qobuz.com/us-en/shop">Qobuz store</a>: Qobuz, one of the streaming services that connects to Roon, maintains its own store of hi-fi audio. For everything that isn't on Bandcamp, I tend to go to Qobuz. Once you purchase on Qobuz, you can download the files and send them to your Roon server.</li>
+</ol>
+<p>Because of Roon's Qobuz integration, I also maintain a Qobuz streaming account. This is how I try music. Any new music I want to listen to, I search for in Roon, and it finds that music on Qobuz. I can listen through Roon, and it all gets tracked through the same system as my purchases. I can even add it to my library so it connects to the graph database. If I like it, I put it on the list to buy.</p>
+<p>Admittedly, I haven't bought all my music yet. I have 1,000 albums saved in Roon, and the vast majority of them are streamed via Qobuz. I have been listening to music for free/cheap for decades, so I have a lot of buying to do. It will take me a long time. But with Roon, I have a system to do so that works anywhere I go.</p>
+<p>Nothing about this setup is cheap. I bought a whole separate computer for my Roon server, which ran me about $500. Roon has a fee of $15/month. My Qobuz account is $10/month. On top of that, I'm buying a lot of music. That doesn't even get into the unnecessary hifi system I built myself. This does not solve any problems for the 2022 version of 9-year-old me downloading &quot;Man Overboard&quot; on Napster who would rather do things more ethically.</p>
+<p>But for someone with the means, privilege, and technical knowledge to build a system like this, it is deeply satisfying to know you're doing what you can to support the artists you love.</p>
+]]></content:encoded>
+            <enclosure url="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1672096154/ben-szymanski-jRZGUdc4DRQ-unsplash_jnrnec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I'm quoted on the Wikipedia page for Michael Jackson's Thriller]]></title>
+            <link>https://www.tylerjfisher.com/blog/post/2022/07/24/im-quoted-on-the-wikipedia-page-for-michael-jacksons-thriller</link>
+            <guid>https://www.tylerjfisher.com/blog/post/2022/07/24/im-quoted-on-the-wikipedia-page-for-michael-jacksons-thriller</guid>
+            <pubDate>Sun, 24 Jul 2022 15:56:11 GMT</pubDate>
+            <description><![CDATA[This is a story about how the internet works.]]></description>
+            <content:encoded><![CDATA[<p>Michael Jackson's <em>Thriller</em> has sold 70 million copies worldwide. It is the best-selling album of all time. I learned this via <a href="https://en.wikipedia.org/wiki/Thriller_(album)">its Wikipedia page</a>. When I visit the Wikipedia page for Michael Jackson's <em>Thriller</em>, I expect to find such statistics. What I do not expect to find is... uh... me, a white kid from Quakertown, Pennsylvania, born eight years after the album came out, who had absolutely nothing to do with the recording of Michael Jackson's <em>Thriller</em>.</p>
+<p>And yet, deep in the page's section on the album's &quot;legacy and influence&quot; <a href="https://en.wikipedia.org/wiki/Thriller_(album)#Reappraisal">is a subsection on critical reappraisal of <em>Thriller</em></a>. In this subsection, three authors are quoted: <a href="https://en.wikipedia.org/wiki/Stephen_Thomas_Erlewine">Stephen Thomas Erlewine</a> of Allmusic, one of the internet's preeminent music critics who regularly contributes to the industry's biggest publications; <a href="https://en.wikipedia.org/wiki/Jon_Pareles">Jon Pareles</a>, now chief music critic at the New York Times; and me, in a poorly written review I put on the internet when I was 15. Let me explain.</p>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1658678340/Screen_Shot_2022-07-24_at_11.58.34_AM_nkzrzr.png" alt="One of these people is not like the others."></p>
+<p>In 2006, I was 15 years old and rapidly becoming a music snob. I started playing bass a couple years earlier, and suddenly, I had strong opinions about Radiohead albums. With few music snob friends available in my small hometown to yell about <em>Kid A</em> with, I turned to the internet to find community.</p>
+<p>I found community via an upstart music website called <a href="https://www.sputnikmusic.com/">Sputnikmusic</a>. The thrust of Sputnik was that anyone could post a review of any album, complete with a five-star rating system. Other users could leave comments on said reviews and leave their own ratings of the album. The result was a mix of something like RateYourMusic and Pitchfork. All the reviews and ratings were user-generated like at RYM, but the design of the site put the writing forward, like at Pitchfork.</p>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1658678480/Screen_Shot_2022-07-24_at_12.01.06_PM_ih9k6c.png" alt="Sputnik's fundemental design hasn't changed in years"></p>
+<p>As it turns out, there were a lot of bored teens who wanted to share their opinions about music in longform on the internet in 2006. Sputnik quickly cultivated a small but dedicated user base, not the least of which was me.</p>
+<p>I started writing reviews for Sputnik in the summer of 2006. You see, my first girlfriend and I had just broken up via MySpace, and I was depressed, so rather than going outside and hanging out with friends, I sat in front of the computer and wrote a short review of every album I ever heard. Sometimes, I wrote three in one day. Other times, I listened to an album once and wrote a review immediately. Eventually, I dropped off the pace, but I kept writing for Sputnik regularly for five years, including an ill-conceived 4/5(???????????) review of Michael Jackson's <em>Thriller</em> in September of 2006. No, I won't link to it. You can find it.</p>
+<p>To be clear, these reviews weren't good; I was just churning out words to keep the depression at bay. The 2022 version of me is doing reaction videos on YouTube. Also, I was 15. I couldn't write. But compared to the other 15-year-olds hanging out on Sputnik, I could kinda write! My reviews became popular around the site.</p>
+<p>Eventually, Sputnik grew enough of an audience that the admins who ran the site decided to organize a little bit. They put together the site's first &quot;staff writers&quot;, and I was selected to be on the staff. This meant a couple things: my reviews went on a special section at the top of the site, and all my reviews — past, present and future — were labeled as &quot;staff&quot; reviews. I don't remember when I got named to staff, but it was well after that 2006 MJ review, around 2007 or 2008. I still wasn't a good writer when I was 17, but I was a lot better than when I was 15.</p>
+<p>We on the staff took ourselves <em>very</em> seriously, and frankly, we punched above our weight. We regularly received press copies of the biggest albums and got press passes to whatever shows we wanted. To this date, Sputnik is a part of Metacritic's scoring system for new music. And, well, we're quoted on Wikipedia pages with some regularity.</p>
+<p>I used to think we were taken seriously because we were good at our jobs, but that's not really what it was. Sputnik's archive hangs with the rest of actual, professional music criticism across the internet for one reason: SEO. Sputnik doesn't dominate search results for &quot;[album name] review&quot; anymore, but for most of the late 2000s and early 2010s, you could guarantee Sputnik would show up in the first few results for any album we had in our database. I don't know <em>why</em> our SEO was so good; I wasn't writing code yet, and I've never contributed technically to Sputnik. But I would bet that it was less a matter of us being good and more a matter of publications like <em>Rolling Stone</em>, <em>NME</em>, and other big legacy publications being <em>terrible</em> at SEO.</p>
+<p>So as Wikipedia pages for major albums were getting built out, it was easy to pad a &quot;critical reception&quot; section with a few quick reviews found on the first page of Google. And hey, if staff's next to the name on the review, you know it's legit. The Wikipedia editor has no idea that said &quot;staff review&quot; was written by a 15-year-old just trying to find his voice online.</p>
+<p>As far as I can tell, my review was added to the Wikipedia page for Michael Jackson's <em>Thriller</em> in 2016. Honestly, that's a little later than I expected. I had hoped that, by 2016, we could recognize Sputnik for what it is and not put my 15-year-old self next to Jon Pareles. But this is not the first time the weird context collapse of searching for an old album's reviews on the internet has put my teenage writing in some weird spaces.</p>
+<p>I'm <a href="https://www.google.com/books/edition/Torment_Saint/GHuXBgAAQBAJ?hl=en&amp;gbpv=1&amp;dq=%22almost+too+perfect%22+elliott+smith+xo&amp;pg=PA251&amp;printsec=frontcover">quoted in a book about Elliott Smith</a>, where a review I wrote in 2007 is treated as if contemporaneous to the release of his 1998 album <em>XO</em>. Thankfully, I gave <em>XO</em> a correct 5/5, but unfortunately, the quote is very bad.</p>
+<p>I was once asked in an interview for an academic opportunity why I gave Pink Floyd's <em>Dark Side of the Moon</em> a 3/5 (answer: because it sucks but I was too scared to give it a worse score).</p>
+<p>I'm on the Wikipedia pages for not only <em>Thriller</em>, but <a href="https://en.wikipedia.org/wiki/Hybrid_Theory">Linkin Park's <em>Hybrid Theory</em></a>, Jay-Z and Kanye West's <em><a href="https://en.wikipedia.org/wiki/Watch_the_Throne">Watch the Throne</a></em>, and countless less famous albums. Of the many minor music blogs on the internet from the mid-2000s, Sputnik won the SEO game, and that victory gives it a lasting legacy via Wikipedia.</p>
+<p>Because of Google's monopoly on search results, good SEO is power and currency. A mediocre essay I wrote when I was 15 lives on in infamy on the Wikipedia page for the best-selling album of all-time, all because the site I published on had good SEO.</p>
+<p>In my case, this is innocuous and funny, but truthfully, these dynamics are making the internet worse. Today, Google search results are regularly lousy with low-quality content from SEO content farms. <a href="https://www.theatlantic.com/ideas/archive/2022/06/google-search-algorithm-internet/661325/">Others have written about this better than I can</a>: our primary place to find information online has been co-opted by people only in the game for a quick buck. That's capitalism, baby! In a better world, we could have search unmotivated by profit, only interested in communicating knowledge. Something like a public library, but for resources on the internet.</p>
+]]></content:encoded>
+            <enclosure url="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1658678580/8423749575_7f12554be3_b_vduowo.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Generations are bullshit. We are multitudes, and that's good.]]></title>
+            <link>https://www.tylerjfisher.com/blog/post/2022/04/06/generations-are-bullshit-we-are-multitudes-and-thats-good</link>
+            <guid>https://www.tylerjfisher.com/blog/post/2022/04/06/generations-are-bullshit-we-are-multitudes-and-thats-good</guid>
+            <pubDate>Wed, 06 Apr 2022 17:18:10 GMT</pubDate>
+            <description><![CDATA[Stop treating age groups like homogenous groups of people.]]></description>
+            <content:encoded><![CDATA[<p>My favorite band was Pearl Jam. I grew up in a single-parent household. I smoked cloves in the parking lot of a Kohl's sitting on the trunk of my friend's Honda Civic. That's right, I'm <s>Gen X</s> a millennial.</p>
+<p>I'm long <a href="https://twitter.com/tylrfishr/status/601137359938281472">on the record</a> that we need to stop treating generational cohorts like homogenous groups of people. So it comes as no surprise that <a href="https://twitter.com/girdley/status/1511316479106453511">the recent viral thread</a> about &quot;mind hacks to use with Gen X&quot; drove me up a wall. For example, the thread says that &quot;poor grammar drives Gen X nuts&quot; because &quot;their teachers stressed correct writing.&quot; They still teach grammar in schools, I promise! Also, &quot;stressed correct writing&quot; is an awkward phrase, my dude. Consider using that edit button when it comes around.</p>
+<p>It's true that historical events can have significant societal impacts on the people who live through them. <a href="https://www.americansurveycenter.org/research/generation-z-future-of-faith/">The decline of religion</a> over the past five American generations is a particularly salient example of how the preferences, lifestyles and values of a culture can change as time progresses. The study of these changes demands real rigor. It's fascinating stuff!</p>
+<p>On a smaller level, living through a particular era will inevitably make you nostalgic for certain things, and you can bond with people of similar age over that nostalgia. Great. That's fine. It's cute that Gen Xers used cassettes. Sounds miserable to me, but go ahead, wax poetic.</p>
+<p>The problem is when we ascribe individual personality traits to groups of tens of millions of people. A common theme about Gen X is that &quot;Gen Xers are independent,&quot; and so we're told to give them space and let them work their own way. That probably works for some Gen Xers! There are other Gen Xers who like working in teams and emphasize collaboration.</p>
+<p>Your level of independence and work style preferences have absolutely nothing to do with what year you were born. These are just personality traits. Humans are social creatures, and social groups always need different types of people to succeed. If everyone over a period of 18 years needed to work independently in order to succeed, we'd have huge problems getting anything done.</p>
+<p>Even more problematic is how we flatten generational cohorts into stereotypes that are often based on the dominant culture of an era. In America, that's white culture, no matter what generation you're talking about. Contrasting how <a href="https://twitter.com/girdley/status/1511316520600674304">&quot;Boomers/Millennials grew up in ages of abundance&quot;</a> with Gen X's economic underperformance is only possible in a white context. In doing this, we continue to erase the continual struggle of marginalized groups in this country and continue to drown out their stories.</p>
+<p>We need to allow for the range of experiences that people bring to the table in all respects, including within generational cohorts.</p>
+]]></content:encoded>
+            <enclosure url="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1649265667/jurian-kersten--Uk2vc_DjvY-unsplash_ou25jz.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Epic's purchase of Bandcamp means for music]]></title>
+            <link>https://www.tylerjfisher.com/blog/post/2022/03/22/epics-purchase-of-bandcamp-leaves-independent-music-in-the-cold</link>
+            <guid>https://www.tylerjfisher.com/blog/post/2022/03/22/epics-purchase-of-bandcamp-leaves-independent-music-in-the-cold</guid>
+            <pubDate>Tue, 22 Mar 2022 13:00:00 GMT</pubDate>
+            <description><![CDATA[It's time to start thinking about the future of digtal independent music.]]></description>
+            <content:encoded><![CDATA[<p>On March 2, <a href="https://blog.bandcamp.com/2022/03/02/bandcamp-is-joining-epic/">Epic Games bought Bandcamp</a>. Epic is the publisher of <em><a href="https://www.epicgames.com/fortnite/en-US/home">Fortnite</a></em>, one of the world's most popular video games; the creator of <a href="https://www.unrealengine.com/en-US/">Unreal Engine</a>, perhaps <em>the</em> most popular game engine; and the owner of a slew of other video game subsidiaries like <a href="https://www.harmonixmusic.com/">Harmonix</a> and <a href="https://www.psyonix.com/">Psyonix</a>. <a href="https://bandcamp.com/">Bandcamp</a> is the world's foremost independent music marketplace, a place where artists as large as <a href="https://radiohead.bandcamp.com/">Radiohead</a> and as small as my bands (we have tens of fans!) can upload their music for sale and limited streaming.</p>
+<p>What does the purchase mean for musicians looking to sell their music online? In the short-term, not much, but in the long-term Epic Games' history and ownership raise serious questions about Bandcamp's longevity. Given this, it's time to think about what might fill the gap Bandcamp would leave in the music ecosystem.</p>
+<h2>The deal</h2>
+<p>At first glance, it's a perplexing match. Where Bandcamp has emphasized empowering artists by getting customers to pay a fair price for music (where &quot;fair&quot; is a value decided upon by each individual artist), Epic's <em>Fortnite</em> has <a href="https://www.theverge.com/2018/12/20/18149869/fortnite-dance-emote-lawsuit-milly-rock-floss-carlton">stolen artists' works consistently</a>, particularly with the games &quot;emotes&quot; feature that allows a player to purchase the ability for their character to do a particular dance. Whether a dance move is copyrightable material is an open legal question, but Epic's practice of lifting popular dance moves without credit stands in clear opposition to Bandcamp's steadfast protection of artist rights.</p>
+<p>A layer deeper though, there are clear affinities between the two companies. Epic <a href="https://www.washingtonpost.com/video-games/2021/09/13/epic-games-apple-lawsuit-ruling-impact/">sued Apple</a> for its controversial App Store policy, where Apple takes a 30 percent cut of all transactions done in the store and through in-app transactions. For a game like <em>Fortnite</em> that makes all its money through in-app transactions, this caused Epic a huge problem. Epic didn't quite win its lawsuit outright, but it can now direct users to other payment systems beyond Apple's.</p>
+<p>Restrictions on iOS are a problem for Bandcamp, too. Currently, users <a href="https://get.bandcamp.help/hc/en-us/articles/360007903233-Can-I-download-my-purchases-directly-from-the-app-">can't buy digital versions music on Bandcamp</a> through its iOS app because Apple won't allow third-party apps to put digital music files on iOS devices. Now resourced with Epic's vast legal team, Bandcamp has a chance to fight this.</p>
+<p>Epic has a larger vision for Bandcamp. Last year, Epic bought <a href="https://sketchfab.com/">Sketchfab</a> and <a href="https://www.artstation.com/">Artstation</a>, two companies similarly positioned as artist-friendly digital marketplaces. Epic's <a href="https://www.epicgames.com/site/en-US/news/bandcamp-joining-epic-games-to-support-fair-open-platforms-for-artists-and-fans">press release</a> about the Bandcamp acquisition states that &quot;Bandcamp will play an important role in Epic’s vision to build out a creator marketplace ecosystem for content, technology, games, art, music and more.&quot; <em>Fortnite</em> emotes aside, Epic has positioned itself as a company with the interests of creators at heart. It believes it can be <em>the</em> place for creators to sell their work and make money, no matter the medium. Given this, there is little reason to believe that Epic will fundamentally alter Bandcamp's position towards artist empowerment anytime soon.</p>
+<p>The rub here, though, is Epic's ownership. Epic is majority-owned by its founder and CEO, Tim Sweeney, who has been leading Epic's charge for creator empowerment. However, 40% of the company is controlled by Tencent, the Chinese technology giant. Unlike Epic's other marketplace acquisitions in Sketchfab and Artstation, Tencent's other investments outside Epic present a conflict of interest with Bandcamp. <a href="https://www.musicbusinessworldwide.com/tencent-now-owns-10-of-universal-9-of-spotify-and-nearly-2-of-warner-music-group/">Tencent owns 9% of Spotify</a> and has stakes in Universal Music Group and Warner Music Group, two of the big three major labels. These labels also have <a href="https://www.rollingstone.com/pro/features/universal-music-spotify-ownership-artists-1126893/"><em>their own</em> ownership stakes in Spotify</a>.</p>
+<p>Spotify's vision for the future of music, one shared by the major labels and Tencent (who have their own streaming platform in China), fundamentally conflicts with Bandcamp's. To date, most major label artists aren't on Bandcamp, since the platform bypasses much of the major label's entrenched distribution efforts.</p>
+<p>It is not unusual for a conglomerate as large as Tencent to have conflicting investments. But it is clear that its stake in the major labels and Spotify are, at the moment, way more valuable than its partial ownership over Bandcamp. The concern for Bandcamp, then, is what happens conflict arises between Bandcamp's vision and Spotify/the major music label's vision for the future of digital music. Will Tencent leverage its 40% ownership of Epic to pressure the company to make changes in Spotify's favor? Will Tim Sweeney hold fast with his majority ownership and open a rift between him and his company's minority owner?</p>
+<p>It is unlikely that anything comes to a head here anytime soon. Spotify and Bandcamp can coexist as currently constructed. But as someone who deeply cares about a future of music where artists can make a living on their work, I want a world where Bandcamp can <em>win</em>. I think this acquisition ends that possibility.</p>
+<h2>What is the next Bandcamp?</h2>
+<p>If Bandcamp can't win, what can? If you believe the music industry needs a fully independent marketplace for artists to sell music (I do!), then it's time to start thinking about what that might look like in the 2020s.</p>
+<h3>Threading the needle of ownership</h3>
+<p>The most important change any future independent music platform must make is its ownership structure. For all its merits, Bandcamp was a privately-owned, for-profit company. While it spent its 14 years of independent existence generally doing the right thing by artists, the company was always susceptible to exactly this problem: getting bought out by interests that may not have artists at the center of their mission.</p>
+<p>To secure the future for artists, <strong>a future platform must be owned collectively by artists</strong>. The benefits here should be obvious: artists can direct development of the platform to meet their needs. Any profits created by the platform can then directly flow back to the artists themselves.</p>
+<figure><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1647919404/Screen_Shot_2022-03-21_at_11.22.08_PM_ollauq.png" alt="A screenshot of Resonate" /><figcaption>Resonate is a co-op based streaming music service.</figcaption></figure>
+<p>There are efforts underway, most notably <a href="https://resonate.coop">Resonate</a>. Resonate aims to build a streaming platform cooperatively owned by a combination of artists, listeners and workers, where users pay full price for a song if they stream it nine times. <a href="https://resonate.is/pricing/">It's a clever solution</a>. It's even <a href="https://github.com/resonatecoop/stream">open source</a>!</p>
+<p>Unfortunately, I'm not confident Resonate will survive much longer. Resonate currently has <a href="https://stream.resonate.coop/releases">3,318 total releases</a>, most by relatively unknown artists, on the platform. <a href="https://opencollective.com/resonate">They need to raise over €10,000 euros</a> by the end of the month to remain sustainable.</p>
+<p>It appears Resonate <a href="https://ra.co/news/41234">received a $1 million investment</a> from venture capitalists Reflective Ventures. But... <a href="https://resonate.is/fact-mag/">according to Resonate</a>, they took the investment as crypto. The market crashed and they only got $600,000 out of it. Earlier versions of Resonate used the blockchain to &quot;<a href="https://www.factmag.com/2019/04/11/resonate-ethical-streaming-platform-relaunches/">ensure payments to artists are transparent and properly distributed</a>.&quot; However, I can't find any reference to that in their technology now. Maybe getting burned by the crypto market turned them away?</p>
+<p>Resonate gets a lot right. Most importantly, <a href="https://resonate.is/the-coop/">it's a co-op model</a> that allows artists (and, in their case, listeners and platform workers) to share in any profits generated through the platform. Any future platform looking to fill Bandcamp's space should use a similar model.</p>
+<p>However, Resonate's fatal flaw may be its inability to attract prominent artists to the platform. On the other side of the artist notability coin, Tidal <a href="https://www.youtube.com/watch?v=_rfgFJvbY7A">infamously</a> launched in the US as a streaming platform with major artists signed on as owners. Today, <a href="https://support.tidal.com/hc/en-us/articles/203055651-Artist-Owned">some of the world's biggest artists are still shareholders</a>, though Block (formerly known as Square, run by Jack Dorsey) is the majority shareholder.</p>
+<figure><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1647919442/Screen_Shot_2022-03-21_at_11.22.53_PM_fdft64.png" alt="A screenshot of Tidal's interface" /><figcaption>Tidal has attracted some of the world's largest artists with ownership stakes and boasts a catalog to rival Spotify.</figcaption></figure>
+<p>This has resulted in serious wins for artists: Tidal pays more in royalties than both Apple Music and Spotify. Late last year, Tidal launched a <a href="https://techcrunch.com/2021/11/23/tidal-is-investing-direct-artist-payments-a-step-toward-fair-streaming-payouts/">direct artist payout system</a> for its highest-paying customers. The Union of Musicians and Allied Workers (UMAW) <a href="https://www.unionofmusicians.org/justice-at-spotify">has been advocating</a> for a similar system to be put in place at Spotify.</p>
+<p>Yet Tidal misses the mark as a proper independent digital music platform due to its ownership. It's great that Beyoncé and Rihanna have stakes in Tidal. Tidal is clearly the most artist-friendly major streaming platform. But there is still no way for independent artists to have a real seat at the table.</p>
+<p>With the digital music industry as entrenched as it is, the only way to get a critical mass of users on a new platform is to get music people know and love, ideally exclusively. This is how Tidal built notoriety. But giving all power to the world's biggest artists does not make a better music industry.</p>
+<p>Instead, the way to build an artist cooperative with momentum would be to find an existing group to partner with, such as the <a href="https://www.unionofmusicians.org">UMAW</a>. Such an organization can maintain membership, share ownership, build collective decision-making structures, and grow the community over time.</p>
+<h3>Building a product for musicians and fans</h3>
+<p>To attract a critical mass of users, you don't just need the music. You need a business model that encourages users to pay for music, an artist experience that actively helps musicians make money, and a product that competes with Spotify, Tidal and Apple Music to entice listeners to stay and use your product every day.</p>
+<p><strong>Streams and downloads: what's the business model?</strong></p>
+<p>Any digital independent music marketplace must both satisfy artist financial needs and remain sustainable in its own right. Bandcamp largely gets this right with a <a href="https://get.bandcamp.help/hc/en-us/articles/1500006084082-What-are-Bandcamp-s-fees-">simple rev share model</a> on sales. Any future platform should use a similar model when music is purchased. It works and remains far less extractive for independent artists than other forms of music distribution.</p>
+<p>The more important thing to define is the relationship between streaming and sales. We've discussed three platforms in this essay so far: Bandcamp, Resonate, and Tidal. Each handles the relationship between streaming and sales differently.</p>
+<ul>
+<li><strong>Bandcamp</strong>: The default number of free streams before requiring a purchase is three, though artists have the ability to increase this number (or disable streaming entirely). After purchase, listeners can stream on Bandcamp indefinitely or download the files for use anywhere.</li>
+<li><strong>Resonate</strong>: Streaming automatically leads to purchasing after nine streams. Purchases are added to the user's collection on Resonate. It is unclear whether you can also download the files.</li>
+<li><strong>Tidal</strong>: Streaming is unlimited, though they do provide direct purchase links for digital download.</li>
+</ul>
+<p>Tidal's model is a nonstarter. Purchases need to be incentivized on this platform, and unlimited streaming gives no serious incentive to purchase. Resonate's model, though fascinating, may lead to unexpected purchases for users or trade in cumbersome store credit systems. Bandcamp's model makes sense, but its product emphasizes the download over the purchase, hindering the platform from becoming a streaming destination for a mass of users. Today's music listeners stream; thus, streaming should be the emphasis on the platform.</p>
+<p>So, what's the model? It lies somewhere between Bandcamp and Resonate. Combine Bandcamp's user-controlled stream limit with Resonate's streaming-first product decisions, and you likely have the right system. Users should be able to download purchased music but give them a better experience for streaming, and they will stream more than they download.</p>
+<p><strong>A better home for artists online: more than music sales</strong></p>
+<p>Bandcamp launched in 2008, and while its product has evolved and innovated over time, a lot of its core functionality has stagnated. Its artist and album pages haven't changed their fundamental design in a decade. While Bandcamp gives artists the ability to theme their pages with a background color and text color, any further customization relies on the user providing <em>image maps</em>. The streaming platforms, on the other hand, emphasize their own branding over the artists.</p>
+<figure><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1647919556/Screen_Shot_2022-03-21_at_11.25.13_PM_zzs27z.png" alt="Bandcamp's design tools" /><figcaption>Bandcamp's design tools</figcaption></figure>
+<p>In a world of Shopify, Webflow and other WYSIWYG web design tools, any new artist tool would have to provide better branding and customization options. An artist profile on the platform should be a more customizable, branded space than anything Bandcamp or the streaming platforms allow. We have the ability to give users simple tools for building bespoke web experiences. Trust them with that power.</p>
+<p>Beyond that, any new platform must recognize that being a successful professional musician in the 2020s is about more than putting music online. Like anything else, it's about realizing multiple revenue streams, marketing your work, and community-building with your fans. A new platform should give artists the tools to do this work. This platform can be not only the home for streaming and purchasing music but also the home for merchandise stores and concert tickets. By combining all the major revenue streams for artists into one platform, the platform becomes more enticing for artists.</p>
+<p>To take it one step further, the platform can make tour planning and merch creation simpler. By allowing venues to sign up for the platform and manage their concert schedules, artists could more easily find venues with open dates that match their tour schedule and directly communicate with those venues. And by leveraging print-on-demand services, the platform could also allow artists to easily create products for their brand, from t-shirts to posters to pins. Just bring your design and upload.</p>
+<p>Bringing all this together, the platform can directly advocate for artists by providing actual training on how to record music, plan tours, design merch, find fans online, and more. If owned by a union or a similar group, this becomes an obvious affinity.</p>
+<p>In short, building a new independent digital music marketplace is not just about allowing artists to sell music online for fair prices. It's about helping artists reach their full potential and reach people who would love their music.</p>
+<p><strong>Build for diehards and casual listeners</strong></p>
+<p>On the end-user side, Bandcamp hasn't built itself into a streaming and discovery destination for the masses. On the discovery front, it does make laudable efforts here, especially with its <a href="https://daily.bandcamp.com/">Bandcamp Daily</a> publication. Bandcamp Daily reads like an alternate-universe Pitchfork, dedicated to digging out and promoting the best in new, independent music with none of the pretension that comes with Pitchfork review scoring. Any future independent music platform can learn a lot from Bandcamp Daily.</p>
+<p>Bandcamp's inability to compete with the major streaming platforms as a streamer comes from three major product flaws: a lack of user personalization, a lack of playlisting features, and a lack of integrations with how people listen to music.</p>
+<p><em>Building for user-personalized streaming</em></p>
+<p>In the 2020s, <a href="https://www.cbsnews.com/news/streaming-tops-radio-as-the-top-way-to-listen-to-music/">more people listen to music by streaming</a> than any other format. An independent music platform has to embrace this reality in its product decisions. The Bandcamp mobile app has made huge strides in this regard, though the web product remains woefully behind. On bandcamp.com, you can't even navigate between pages while listening to the same song.</p>
+<p>Neither product personalizes its display for users. When I open Spotify or Apple Music, it makes a best guess at what I want to listen to, providing me with my favorites and some curated suggestions of new things I might like. Bandcamp displays a universal homepage, more like a publication than a platform. While I can follow genres and artists and find those feeds in other sections of the app, they feel far from central to the experience.</p>
+<p>A new platform has to both allow users to follow and support the artists they love and personalize its recommendations for each user. Specific types of music lovers (like me) may hate the algorithmic approach of Spotify, but it has unequivocally been a success for the platform. The success of Pandora before Spotify suggests further that most music listeners don't mind an algorithm providing music recommendations. Investing in some level of machine learning seems essential for building a successful mass-market music platform.</p>
+<p><em>Emphasize playlists</em></p>
+<p>Spotify has made one thing clear with its success: people love playlists. The Music Business Association commissioned a study in 2016 that found <a href="https://www.bbc.com/news/entertainment-arts-37444038">31% of listening time is spent on playlists while 22% is spent on albums</a>. (Single tracks are the most popular form of listening, though). Since then, Spotify, Apple Music, and Tidal have only doubled down on playlist creation and playlist curation.</p>
+<p>Bandcamp's album-first positioning, with no ability to make playlists, fails to meet the market's preferences. Bandcamp receives the request for playlists enough that they have <a href="https://get.bandcamp.help/hc/en-us/articles/360057841174-Can-I-create-a-playlist-">a dedicated page to the topic on their help site</a>, just to say no outright.</p>
+<p>Why hasn't Bandcamp built playlists? My guess is that they, as music lovers, believe in an album-first product. Artists make albums, not playlists, and artists want to sell their albums. Adding playlists would add complications for artists trying to sell their work on the platform. I have no doubts that adding playlists to their existing structure would be a huge technical lift as well.</p>
+<p>But playlists are essential to music communities. Playlists further reinforce the need for the user to customize their streaming experience. From cassette mixtapes to burned CDs to Spotify playlists, people love to curate music.</p>
+<p>A greenfield take on an independent music marketplace could thread the needle, offering tangible benefits to both artists and fans. Playlists, both user-created and platform-curated, offer opportunities for artist music to get into the ears of more potential fans. By allowing users to purchase songs on playlists individually or purchase an entire playlist with one click, artists increase their potential for sales.</p>
+<p>You could even encourage playlist creation by giving the playlist creator a small cut when users purchase an entire playlist. (This cut would come out of the platform's take, not the artist's, to be clear.) This further incentivizes users to remain on your platform and encourages users to see purchasing music as a positive step away from streaming.</p>
+<p><em>Integrating with today's listening experience</em></p>
+<p>This is a shorter and more obvious point: today, everything can play music from your phone. Smart speakers are ubiquitous, and every modern car has a USB connection. IKEA makes lamps with Sonos speakers in them. Thus, this platform has to support every standard under the sun: Chromecast, Airplay, Sonos, and whatever else might come. If people can't listen to music in their preferred ways on your platform, they will stop coming and find somewhere they can.</p>
+<h3>The ultimate goal</h3>
+<p>3,000 words later (thanks for reading!), it's worth restating the ultimate goal. Artists need an independent marketplace to sell their music. Bandcamp has long served this purpose admirably. However, its sale to Epic Games raises serious questions about its ability to remain independent. Thus, it's time to start thinking about what a future platform might look like. Other existing platforms like Resonate and Tidal offer visions of potential futures.</p>
+<p>My vision is this: a streaming-forward platform that offers all the personalization and customization of something like Spotify, but pushes listeners to purchasing music outright with Bandcamp's streaming limits. Most importantly, this platform must be <strong>artist-owned</strong>, allowing the platform to continue to adapt to the needs of artists as the music industry changes.</p>
+<p>Now, who can build it?</p>
+]]></content:encoded>
+            <enclosure url="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1647918938/eg-bandcamp-1920x1080-1920x1080-7b4339e0b949_lidopc.webp" length="0" type="image/webp"/>
+        </item>
+        <item>
+            <title><![CDATA[How I built this website]]></title>
+            <link>https://www.tylerjfisher.com/blog/post/2022/03/10/how-i-built-this-website</link>
+            <guid>https://www.tylerjfisher.com/blog/post/2022/03/10/how-i-built-this-website</guid>
+            <pubDate>Thu, 10 Mar 2022 01:03:45 GMT</pubDate>
+            <description><![CDATA[How I configured next.js, Netlify CMS, Tailwind, and Buttondown to play nicely together.]]></description>
+            <content:encoded><![CDATA[<p>I've wanted to have my own blog, or just a website for writing, for a long time. But every time I felt the stirrings of the written word within me, I couldn't decide on a platform. Bite the bullet and start a Substack? Try Ghost? Suffer through PHP and make a WordPress? Build something from scratch? I had real option paralysis when it came to choosing a platform for what is ultimately a very low-stakes blog with no revenue plan.</p>
+<p>I did, in fact, try <a href="https://ghost.org/">Ghost</a>. I thought it hit the sweet spot of &quot;does a lot for me so I can get moving&quot; and &quot;cheap enough for a personal blog.&quot; I built something very close to this very website, and very nearly launched it. Until I started tinkering with the themes and realized you had to pay $300/year for the privilege of theme editing. That's not worth it to me when I know I can replicate many of Ghost's features myself. Ghost is fairly priced for someone who means to start a real, revenue-generating business with their digital presence. But I'm doing this for free.</p>
+<p>So, instead, I built this from scratch. Thankfully, the <a href="https://github.com/TryGhost/Themes/tree/main/packages/journal">default Ghost theme</a> I was working from is MIT licensed, so I cribbed heavily from it for this site. Here are the tools I'm using for the build:</p>
+<ul>
+<li><strong>Web framework</strong>: <a href="https://nextjs.org">next.js</a></li>
+<li><strong>CMS</strong>: <a href="https://www.netlifycms.org/">Netlify CMS</a></li>
+<li><strong>Hosting platform</strong>: <a href="https://vercel.com">Vercel</a></li>
+<li><strong>CSS framework</strong>: <a href="https://tailwindcss.com/">Tailwind</a></li>
+<li><strong>Newsletters</strong>: <a href="https://buttondown.email">Buttondown</a></li>
+<li><strong>Media library/image CDN</strong>: <a href="https://cloudinary.com">Cloudinary</a></li>
+</ul>
+<p>All in all, it took me two nights of hacking to put this all together.</p>
+<p>The app is quite simple; you can read the source <a href="https://github.com/TylerFisher/blog">here</a>. But I did a few things that were new to me in order to make this all work, so I thought I'd write them down.</p>
+<h2>Automated newsletter publishing</h2>
+<p>Newsletters. So hot right now. There's another version of this effort where I went newsletter-first and picked a newsletter platform to publish out of, such as Substack. But I'm too much of an open web nerd to let myself do that. Still, I wanted to give the option to any potential readers to get my posts via email if they choose. (Wanna subscribe? There's a form at the bottom of this post.)</p>
+<p>I didn't want the newsletter to be extra work for me. Instead, I wanted to automatically publish my posts as editions of my newsletter. Ghost handles this really well, but as stated above, it felt too expensive for my needs.</p>
+<p>Instead, I chose Buttondown as my email provider, which is free until I get past 1,000 subscribers. It also uses Markdown as a content format and has a handy <a href="https://api.buttondown.email/v1/schema">API</a> that allows me to publish newsletters programmatically. Given my content is stored as Markdown anyway via Netlify CMS, this was an obvious fit.</p>
+<p>I actually couldn't believe how easy it was to make this work. All I had to do was write a <a href="https://github.com/TylerFisher/blog/blob/main/script/send-newsletter.js">simple script</a>. Seriously, this is the whole function:</p>
+<pre><code class="language-javascript">const fetch = require(&quot;node-fetch&quot;);
+const { program } = require(&quot;commander&quot;);
+const matter = require(&quot;gray-matter&quot;);
+require(&quot;dotenv&quot;).config();
+
+program.version(&quot;0.0.1&quot;);
+
+async function sendNewsletter(params) {
+  const apiUrl = process.env.BUTTONDOWN_API_URL;
+  const apiToken = process.env.BUTTONDOWN_API_KEY;
+
+  // gray-matter parses Markdown files with frontmatter
+  const data = matter.read(`${params.file}`);
+
+  // construct required body for buttondown
+  const newsletterData = {
+    body: data.content,
+    subject: data.data.title,
+  };
+
+  // send request to buttondown
+  try {
+    const response = await fetch(apiUrl, {
+      method: &quot;post&quot;,
+      body: JSON.stringify(newsletterData),
+      headers: {
+        &quot;Content-Type&quot;: &quot;application/json&quot;,
+        Authorization: `Token ${apiToken}`,
+      },
+    });
+
+    // tell me about it
+    const respData = await response.json();
+    console.log(&quot;Newsletter published!&quot;, respData);
+  } catch (e) {
+    // tell me if something went wrong
+    console.log(e);
+  }
+}
+
+// configure cli
+program
+  .requiredOption(
+    &quot;-f, --file &lt;data&gt;&quot;,
+    &quot;required, file to parse, ex: content/posts/2022-03-08_a-blog-in-this-economy.md&quot;
+  )
+  .description(&quot;Parses posts and sends as newsletter via ButtondownAPI &quot;)
+  .action((opts) =&gt; {
+    try {
+      sendNewsletter(opts);
+    } catch (e) {
+      console.log(e);
+    }
+  });
+
+program.parse(process.argv);
+</code></pre>
+<p>And I run it like this:</p>
+<pre><code>$ node script/send-newsletter.js -f content/posts/slug-of-post.md
+</code></pre>
+<p>If I want to get fancy, I'll hook this up to a Github action so that when I commit new posts, newsletters go out automatically. But running a simple script manually is good enough for now.</p>
+<h2>Custom editor components in Netlify CMS</h2>
+<p>I like Netlify CMS, but it does one thing that requires a workaround. Its default image component does not support image captions. Image credit via captions is really important! So I had to build a custom editor component that included a field for captions.</p>
+<p>I'm instantiating the CMS manually, instead of simply placing their HTML file in next.js's public directory. Doing this allows me to configure plugins and define my own components. You can see my full setup <a href="https://github.com/TylerFisher/blog/blob/main/pages/admin/index.js">here</a>. Netlify CMS exposes a `CMS` object where you register said plugins and components. Here's what I came up with:</p>
+<pre><code>CMS.registerEditorComponent({
+  id: 'figure', // Internal id of the component
+  label: 'Figure', // Visible label
+  // Fields the user need to fill out when adding an instance of the component
+  fields: [
+    {
+      name: 'image',
+      label: 'Image',
+      widget: 'image',
+    },
+    {
+      name: 'alt',
+      label: 'Alt',
+      widget: 'string',
+    },
+    {
+      name: 'caption',
+      label: 'Caption',
+      widget: 'string',
+    },
+  ],
+  pattern:
+    /^&lt;figure&gt;&lt;img src=&quot;(.*)&quot; alt=&quot;(.*)&quot; \/&gt;&lt;figcaption&gt;(.*)&lt;\/figcaption&gt;&lt;\/figure&gt;/, // Pattern to identify a block as being an instance of this component
+  // Function to extract data elements from the regexp match
+  fromBlock: function (match) {
+    return {
+      image: match[1],
+      alt: match[2],
+      caption: match[3],
+    }
+  },
+  // Function to create a text block from an instance of this component
+  toBlock: function (obj) {
+    return (
+      '&lt;figure&gt;&lt;img src=&quot;' +
+      obj.image +
+      '&quot; alt=&quot;' +
+      obj.alt +
+      '&quot; /&gt;&lt;figcaption&gt;' +
+      obj.caption +
+      '&lt;/figcaption&gt;&lt;/figure&gt;'
+    )
+  },
+  // Preview output for this component.
+  toPreview: function (obj) {
+    return (
+      '&lt;figure&gt;&lt;img src=&quot;' +
+      obj.image +
+      '&quot; alt=&quot;' +
+      obj.alt +
+      '&quot; /&gt;&lt;figcaption&gt;' +
+      obj.caption +
+      '&lt;/figcaption&gt;&lt;/figure&gt;'
+    )
+  },
+})
+</code></pre>
+<p>It's straightforward enough to do this: you define the HTML output of your block and work backward from there. In this case, I wanted a simple <code>&lt;figure&gt;</code> structure and needed to supply the image source, the alt text, and the caption text.</p>
+<h2>Previewing posts in Netlify CMS while using Tailwind</h2>
+<p>Out of the box, Netlify CMS's preview pane is pretty useless, but you can supply a custom React component to the Netlify CMS to use instead. I'm using next.js, so it should be dead simple to just give the CMS my Post component, right?</p>
+<p>Wrong. Because Netilfy CMS uses its own instance of React and doesn't crib from mine, it doesn't know anything about my Tailwind configuration. Meaning I can't do something like <code>&lt;article className=&quot;max-w-7xl mx-auto&quot;&gt;</code>. Those classes mean nothing to Netlify CMS's React instance. So instead, you have to supply Tailwind to the component as well.</p>
+<p>I landed on doing this by writing a `PostPreview` component that injects the Tailwind CDN script after the component mounts. This is <em>not</em> recommended behavior for production, but I'm the only person using this, so I made the compromise.</p>
+<pre><code>  componentDidMount() {
+    const { document } = this.props;
+    const script = document.createElement('script');
+    script.src = 'https://cdn.tailwindcss.com?plugins=typography';
+    document.head.appendChild(script);
+  }
+</code></pre>
+<p>Now, my post preview in NetlifyCMS looks nearly identical to my actual posts. Perfect!</p>
+<figure><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646879194/Screen_Shot_2022-03-09_at_9.26.16_PM_vj3ukt.png" alt="Screenshot of the Netlify CMS post editor and preview pane" /><figcaption>Live preview is so nice.</figcaption></figure>
+<h2>Overall thoughts</h2>
+<p>As a personal blog for a techncially-minded person, this system is pretty nice. It's smooth to operate and yet keeps everything close to the vest. All of my code and content is controlled via git, and I can run everything locally. By using next.js and Vercel, my site is speedy and performant while requiring almost no effort from me. But it's not perfect. I have some things I'd like to improve in the future:</p>
+<ul>
+<li>Somehow get image dimensions from Cloudinary and store that data so I can take advantage of next.js's <a href="https://nextjs.org/docs/basic-features/image-optimization">built-in image optimization and lazy loading</a>. Not using this feature is having the largest impact on performance.</li>
+<li>Use <a href="https://preactjs.com/">preact</a> instead of React. I'm not doing anything remotely fancy with react, so this should be straightforward, and it'll cut down on the size of the JS on this site.</li>
+<li>Setup Netlify CMS properly so I can authenticate and log in on the production site. Right now, I'm doing everything locally. That's fine for now, but ideally, I'd be able to work on content even if I'm not at a computer that has my dev environment set up.</li>
+</ul>
+<p>These are all minor issues though, and I needed to launch. If you want to make use of this system, <a href="https://github.com/TylerFisher/blog">all the code is open source</a>. Feel free to play around!</p>
+]]></content:encoded>
+            <enclosure url="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646881432/glen-carrie-HpMihL323k0-unsplash_cokxxi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to setup your Mac for writing code in under one hour]]></title>
+            <link>https://www.tylerjfisher.com/blog/post/2022/03/08/how-to-setup-your-mac-for-writing-code-in-under-one-hour</link>
+            <guid>https://www.tylerjfisher.com/blog/post/2022/03/08/how-to-setup-your-mac-for-writing-code-in-under-one-hour</guid>
+            <pubDate>Mon, 07 Mar 2022 19:26:35 GMT</pubDate>
+            <description><![CDATA[We'll cover command line tools, language runtime management, git, text editors and more.]]></description>
+            <content:encoded><![CDATA[<p>Over the past couple of months, I've had to set up multiple macOS computers for web development work. In the process, I've learned about a few tools that make the process much less painful than it used to be. So, in the spirit of the NPR Visuals Team's <a href="https://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html">immortal dev setup blog post</a>, I thought I'd share my process as it exists in early 2022.</p>
+<p>This process takes me less than an hour to complete. No more wasting a whole day on setup!</p>
+<h2>Prerequisites</h2>
+<p>Here's what I'm looking for in a development environment:</p>
+<ul>
+<li><strong>Command line tools</strong>: The command line is the center of my system. I use the command line to run dev servers, interact with version control, open my text editor, and navigate around my filesystem. Thus, my development environment should emphasize command line tools whenever possible.</li>
+<li><strong>Language-agnostic</strong>: Currently, I do my work in JavaScript/Node.js, with the occasional Python project along the way. My tooling is geared towards these languages, but as we'll see, my general setup is pretty language-agnostic. I might have to work on a PHP project or a Ruby project someday, and I don't want to have to change my whole setup when that happens.</li>
+<li><strong>No fuss</strong>: I don't like configuring tools a bunch with third-party plugins and extensions. Inevitably, that stuff breaks at inconvenient times and makes my life more frustrating. The more I can use out-of-the-box, the better.</li>
+<li><strong>Speed rules</strong>: All my tools should be fast. I can't stand lag when I work with programming tools. Code is plain text! We should be capable of working with plain text without hammering our processors.</li>
+</ul>
+<h2>Step 0: Are you an administrator?</h2>
+<p>Depending on how you got the computer, or your employer's IT policies, it might be difficult to get administrator access to your machine. But it is essential to do this work. If your employer is procuring a computer for you, stress the importance of having this access as soon as you can.</p>
+<p>To double-check whether your account is an administrator, open the System Preferences, then click on Users &amp; Groups, and make sure your user has &quot;admin&quot; written below your name in the sidebar.</p>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646714001/Screen_Shot_2022-03-03_at_1.01.11_AM_ln2znr.png" alt=""></p>
+<h2>Step 1: Install iTerm2</h2>
+<p>The default Terminal that comes with macOS is fine. But the UI of iTerm2 is nicer and more customizable, so I prefer it.</p>
+<p>You can download iTerm2 <a href="https://iterm2.com/">here</a>.</p>
+<h2>Step 2: Install the command line tools</h2>
+<p>To do anything useful on the command line on macOS, you have to install the command line tools. Sometimes, macOS will prompt you for this as soon as you open a terminal. If not, run the following command and click through the system dialogs that follow:</p>
+<pre><code class="language-shell">xcode-select --install
+</code></pre>
+<p>This process will take 5-10 minutes.</p>
+<h2>Step 3: Install Homebrew</h2>
+<p>Homebrew is the de facto package manager for macOS. It's where you install system software you'll use as a programmer. Install it with the following command:</p>
+<pre><code class="language-shell">/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&quot;
+</code></pre>
+<p>After the process finishes, make sure you place Homebrew on your $PATH. (What is your $PATH? <a href="https://beautifulracket.com/setting-the-mac-os-path.html">This is a good primer</a>.) Homebrew will show you the two commands you need to run to do so at the bottom of the installation logs. They will look something like this:</p>
+<pre><code class="language-shell">echo 'eval &quot;$(/opt/homebrew/bin/brew shellenv)&quot;' &gt;&gt; /Users/&lt;YOUR_USERNAME)&gt;/.zprofile
+eval &quot;$(/opt/homebrew/bin/brew shellenv)&quot;
+</code></pre>
+<p>If you copy from here, make sure to edit the &lt;YOUR_USERNAME&gt; string to your username on your Mac.</p>
+<p>To double-check everything is working, run <code>brew doctor</code>.</p>
+<h2>Step 4: Install asdf</h2>
+<p>So far, this process has been pretty standard. Here's where I stray from convention.</p>
+<p>I primarily work with JavaScript and node.js, but sometimes I work in Python. It's not inconceivable that someday I'll need to work with other programming languages. For years, installing a new programming language meant learning a whole new set of developer tools for how to <em>properly</em> install a programming language and not blow up your whole environment. I'd use <code>pyenv</code> to manage Python installations, <code>n</code> to manage node.js installations, <code>rbenv</code> for Ruby, etc. They all had different APIs and interfaces, and managing them all was a pain.</p>
+<p>Enter <a href="https://asdf-vm.com/">asdf</a>, which solves this problem neatly with a one-size-fits-all runtime management solution. It's easy to install. Use Homebrew:</p>
+<pre><code>brew install asdf
+</code></pre>
+<p>Then, run the following command to install it to your path:</p>
+<pre><code>echo -e &quot;\n. $(brew --prefix asdf)/libexec/asdf.sh&quot; &gt;&gt; ${ZDOTDIR:-~}/.zshrc
+</code></pre>
+<p>This installs the core software that manages all your runtimes. Then, you need to install plugins for the languages you care about. I know I said I try to avoid plugins, but it makes sense here. There are a lot of programming languages, and I don't need runtime management for all of them. Check <a href="https://github.com/asdf-vm/asdf-plugins">this repo</a> for a list of plugins.</p>
+<p>Here, I'll explain how to install the node.js plugin, but the process is roughly the same for any language.</p>
+<p>First, install any dependencies for the plugin. The asdf docs say you need <code>gpg</code> and <code>gawk</code> for the node.js plugin, so install those with Homebrew:</p>
+<pre><code>brew install gpg gawk
+</code></pre>
+<p>Then, install the plugin:</p>
+<pre><code>asdf plugin add nodejs https://github.com/asdf-vm/asdf-nodejs.git
+</code></pre>
+<p>Next, install the version of the language you want. Asdf exposes a <code>latest</code> option to get the latest version of the language, but with node.js, I use the long-term support (LTS) version. The node.js team maintains two versions of node.js at all times: the &quot;current&quot; version where they work on experimental new features, and the &quot;LTS&quot; version that is recommended for use in production. See <a href="https://nodejs.org/en/about/releases/">here</a> for more information.</p>
+<p>You can go to the <a href="https://nodejs.org/en/">node.js homepage</a> to find the latest LTS version number. As of this writing, it's 16.14.0. Install the version like so:</p>
+<pre><code>asdf install nodejs 16.14.0
+</code></pre>
+<p>Finally, set your global version to the version you just installed:</p>
+<pre><code>asdf global nodejs 16.14.0
+</code></pre>
+<p>Repeat this process for all the languages you plan to use. I use <a href="https://github.com/danhper/asdf-python">this plugin</a> for Python.</p>
+<p>When you're done, make sure your runtimes are properly set up by checking their version and their location on your system. You should see something like this:</p>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646714038/Screen_Shot_2022-03-03_at_1.09.20_AM_pfiz4n.png" alt=""></p>
+<p>If you need to install different versions of your languages for legacy projects, it's as simple as running <code>asdf install &lt;language&gt; &lt;version&gt;</code>. You can set your active version globally, for the current session, or locally in your current folder. <a href="https://asdf-vm.com/manage/versions.html#set-current-version">Check the docs</a> for more info.</p>
+<h2>Step 5: Git setup and authenticating with Github</h2>
+<p>I use git for version control, and you should too. Apple used to ship an old version of git and it was recommended to install a newer version with Homebrew. These days, Apple is pretty close. My system git is version 2.30.1. Git is on 2.35.1 as of writing. You can upgrade if you want with <code>brew install git</code>, but I haven't needed to.</p>
+<p>However, you will want to set up your git config. I adjust three settings: my name, my email, and my default branch name. To do so, run the following:</p>
+<pre><code>git config --global user.name &quot;Your Name&quot;
+git config --global user.email &quot;your@email.com&quot;
+git config --global init.defaultBranch &quot;main&quot;
+</code></pre>
+<p>If using Github, make sure your email address matches an email you have attached to your Github account so that your commits are credited properly.</p>
+<p>If you use Github to store your repositories remotely, you need to properly authenticate to push your code there. Recently, Github moved to a personal access token system for authentication. Rather than recreate their docs, you can read them <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token">here</a>. Come back here after you've finished all the steps on that page. With that completed, you should be able to clone, pull from and push to any Github repository you have access to.</p>
+<h2>Step 6: Install Visual Studio Code</h2>
+<p>Honestly, this is the part of my development environment I'm least excited about. I don't love Visual Studio Code. I find it does way too much, has cumbersome and unconventional keyboard shortcuts, and is pretty slow.</p>
+<p>It seems like VSCode is built to do everything: terminals, version control, IDE-like features, and more. I'd rather it offered a speedy text editing interface, nice linting and autoformatting, and not much else.</p>
+<p>Nevertheless, I'm using it, more out of inertia than anything. I'd love to be a cool vim guy, but I can't stick with it long enough to become truly productive with it, and setting it up is pure hell. If you're using a cool text editor that's fast and simple, <a href="https://twitter.com/tylrfishr">tell me about it</a>!</p>
+<p>Anyway, download <a href="https://code.visualstudio.com/">Visual Studio Code</a> from the website. I try to limit the extensions I install, but I do install the recommended Python and ESLint extensions.</p>
+<p>I also install the shell command by opening the command palette (<code>cmd+shift+p</code>) and searching for &quot;Shell command&quot;. This allows you to open folders from the command line by using the <code>code</code> command. For example, to open your current directory in VSCode, you would run <code>code .</code>.</p>
+<p>Finally, I change a few keyboard shortcuts. By default, VSCode uses <code>cmd+&lt;number&gt;</code> to split the editor into panes, rather than switching tabs like my web browser. This infuriates me to no end. Override that by opening the keyboard shortcuts editor (<code>cmd+k, cmd+s</code>). Then, search for &quot;openEditorAtIndex&quot;. You will see options for opening at index (that is, tab) 1-9. Double click on each default shortcut and override it with <code>cmd+&lt;index number&gt;</code>.</p>
+<h2>Some extras</h2>
+<p>You could stop right here. These are the barebones systems I use to get a proper development environment setup. But there's some extra stuff I install to make my life better.</p>
+<h3>Python environment management</h3>
+<p>I put this in the extra section because I'm trying to keep this tutorial language-agnostic. But if you work in Python, don't skip this part.</p>
+<p>Because working in Python is a house of cards, you need more tooling to ensure none of your tools ever talk to each other in the wrong way. I use two tools to ensure this doesn't happen.</p>
+<p>First, I install <a href="https://github.com/pypa/pipx">pipx</a>. Pipx is a tool for installing global Python applications into their own environments. It's silly that we have to do this, but alas, we do. Install pipx with pip, because of course:</p>
+<pre><code>pip install --user pipx
+</code></pre>
+<p>Then, restart your terminal and run <code>python3 -m pipx ensurepath</code> to make sure you have the location where pipx installs applications on your $PATH.</p>
+<p>Now that we have pipx, we can install <a href="https://pipenv.pypa.io/en/latest/">pipenv</a> to ensure pip never installs our project dependencies globally. Confused yet? Me too.</p>
+<pre><code>pipx install pipenv
+</code></pre>
+<p>Now, whenever you're working on a Python project, you can use pipenv to automate the creation of virtual environments for each project. Thanks to pipx, your pipenv installation also won't get in the way of any other versions of Python you might need to install on your computer. At least, until Apple releases an update that breaks everyone's Python installations. <em>Deep, long sigh</em>.</p>
+<h3>A nice color scheme</h3>
+<p>I stare at my terminal and text editor all day, so it's worth investing some time in making them look nice. I use the <a href="https://github.com/enkia/tokyo-night-vscode-theme">Tokyo Night</a> color scheme for both iTerm2 and VSCode.</p>
+<p>To install in iTerm2, download <a href="https://github.com/enkia/tokyo-night-vscode-theme/blob/master/tokyo-night.itermcolors">this file</a>. Then, open the iTerm2 preferences, click on Profiles in the top nav, then Colors in the subnav. Open the &quot;Color Presets&quot; menu and scroll down to import. Select the file you downloaded to your file system. Then, open the menu again and select <code>tokyo-night</code>.</p>
+<p>To install in VSCode, open the command palette with <code>cmd+shift+p</code>. Then, type &quot;Install Extension&quot; and select the command. Search for Tokyo Night and install the theme.</p>
+<h3>A nice terminal prompt</h3>
+<p>I like a clean, fast, informative terminal prompt. It used to take a lot of difficult configuration to get a good one, but I found <a href="https://starship.rs">Starship</a> this time, and it is plug-and-play.</p>
+<p>To make it work, you need what's called a &quot;Nerd Font.&quot; This is a font that has been patched with a bunch of icons that will show up in your prompt, like the Python logo. You can download a Nerd Font <a href="https://www.nerdfonts.com/font-downloads">here</a>. I use <a href="https://typeof.net/Iosevka/">Iosevka</a>.</p>
+<p>Once you have that downloaded, unzip the download file and open the folder. The folder has an unreasonable amount of font files to install, but macOS will figure it all out if you highlight them all and double click. This will install the font system-wide.</p>
+<p>Then, open the iTerm2 preferences, click Profiles in the top nav, then Text in the subnav. Change the font to Iosevka Nerd Font Mono. You'll also want to bump up the font size, as Iosevka is pretty narrow.</p>
+<p>After you've set up your terminal font, run the following command to install starship:</p>
+<pre><code>sh -c &quot;$(curl -fsSL https://starship.rs/install.sh)&quot;
+</code></pre>
+<p>Then, run the following command to ensure Starship runs every time you start a shell session.</p>
+<pre><code>echo -e '\n. eval &quot;$(starship init zsh)&quot;' &gt;&gt; ~/.zshrc
+</code></pre>
+<p>Restart your terminal, and you'll have a nice terminal prompt. Starship is <a href="https://starship.rs/config/#prompt">customizable</a> if you're into that, but I find the default works great.</p>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646714027/Screen_Shot_2022-03-03_at_1.04.32_AM_wmpiff.png" alt=""></p>
+<h2>What else?</h2>
+<p>It used to take me most of a workday to set up a new dev environment. Today, I can do it in less than an hour. That's partially because I've done this a lot, but also because developer tooling has come a long way. Kudos to all the open-source maintainers who build this great developer tooling to make my life easier.</p>
+<p>What am I missing? I'm on Twitter <a href="https://twitter.com/tylrfishr">@tylrfishr</a>. Give me a shout!</p>
+]]></content:encoded>
+            <enclosure url="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646713633/Screen-Shot-2022-03-03-at-5.58.22-PM_jtca18.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[A blog? In this economy?]]></title>
+            <link>https://www.tylerjfisher.com/blog/post/2022/03/08/a-blog-in-this-economy</link>
+            <guid>https://www.tylerjfisher.com/blog/post/2022/03/08/a-blog-in-this-economy</guid>
+            <pubDate>Tue, 08 Mar 2022 01:11:04 GMT</pubDate>
+            <description><![CDATA[I'm taking back a space of the internet for myself.]]></description>
+            <content:encoded><![CDATA[<p>I've been active on the internet since the mid-2000s as a middle schooler. For the past two decades, my access to the internet has always been mediated through platforms.</p>
+<p>Back in 2005, I talked to my friends on AIM and journaled inanely about whatever happened in class that day on Xanga. Today, I talk to my friends and colleagues on Slack and journal inanely about whatever happened at work that day on Twitter. Not much has changed, and yet everything has changed.</p>
+<p>When I made my first Xanga, the platform gave me confines to build in, but I defined nearly everything about it: not just the look but the structure of its content, its purpose, and how it interacted with the rest of the platform. MySpace enforced more control over the structure, but you still controlled your presentation. I wrote my first HTML and CSS on those platforms.</p>
+<figure><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646704632/image_yxltho.png" alt="A fake Xanga profile emblematic of the style" /><figcaption>Not my Xanga, but like, not *not* my Xanga, you know?</figcaption></figure>
+<p>Facebook's main user-facing innovation, as I remember it when I joined in 2008, was to strip away the personalization. It was cleaner. Everyone's profile looked the same. It was a necessary corrective from then-dominant MySpace, where profiles were bloated with autoplaying audio, flashing gifs, and neon colors, designed by teens with no idea how to make text readable.</p>
+<figure><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646704661/image-3_dqw5vf.png" alt="Barack Obama's Facebook profile, circa 2008" /><figcaption>Clean, but soulless.</figcaption></figure>
+<p>But it was a devil's bargain. Once we gave away the ability to control our presentation online, we started losing control of everything else. Today, we can't even control what appears on our screen. Algorithmic timelines force upon us stale content from days ago, suggested follows of people we don't know, and of course, ads. Always ads.</p>
+<p>Despite promising everything you could ever want, it has never been harder to find what you need online. Running a Google search means sifting through the first page of ads and bullshit content from SEO content farms before you get to anything useful. The social platforms are nigh unusable in their current state, where it feels like at least 25% of your timeline is ads.</p>
+<figure><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646704674/Screen_Shot_2022-03-07_at_1.05.08_AM_ugfqyq.png" alt="A Google Search results page full of ads" /><figcaption>It's ads all the way down.</figcaption></figure>
+<p>Against this backdrop, we fight for the remaining scraps of attention. Our posts must be Definitive Statements, weaponized to make someone stop scrolling and engage. We whittle down our thoughts into absolutist terms to be as direct as possible. When our posts succeed, all we do is open ourselves up to <a href="https://warzel.substack.com/p/its-not-cancel-culture-its-a-platform?s=r">context collapse</a>. There is no winning on the platforms.</p>
+<p>To take back some control of my own experience online, I'm starting a blog. It feels necessary to stake my claim to a place of my own. For me, a blog feels like the right format for where I want to be online.</p>
+<p>I have no dreams of building anything sustainable. I'm not doing any real audience engagement work to try to lure people here. I'm just focusing my attention on writing here rather than writing pithy tweets. If people read, that's cool. If not, at least I've been writing real words.</p>
+<p>I realized as the calendar ticked to 2022 that I haven't written anything that wasn't a tweet <a href="https://www.niemanlab.org/2018/12/this-is-journalisms-do-or-die-moment/">since 2018</a>. That's a problem. Writing <a href="https://www.niu.edu/language-literacy/_pdf/the-benefits-of-writing.pdf">provably</a> makes you a better thinker and a better person. I also know that firing off tweets isn't real writing, at least not for me. On Twitter, I don't think critically. I just fit my first thought into 240 characters and go. Not only is life on the platforms unhealthy for how I consume information, but life on the platforms is also unhealthy for how I develop my own thoughts.</p>
+<p>If I have a mission for this blog, it is simply to make myself a better communicator and thinker through the practice of writing. As I'm writing this, I can feel how stilted my language is. These muscles are atrophied. I hope, when I look back on this post in a year, I can see an improvement in my prose and my thoughts. Hopefully, I'll be more enjoyable to read too.</p>
+<p>I have no parameters on what I'm going to write about. I'd like to push myself to write about more than work and the internet. I like other things, and I don't express that part of myself enough. I hope this blog can be a space for that.</p>
+]]></content:encoded>
+            <enclosure url="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1646704863/kristopher-roller-PC_lbSSxCZE-unsplash_motlgf.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

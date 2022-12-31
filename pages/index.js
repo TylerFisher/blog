@@ -1,26 +1,9 @@
 import Layout from "../components/layout";
 import FeaturedPost from "../components/homepage/FeaturedPost";
 import PostStream from "../components/homepage/PostStream";
-import { constructPostPath } from "../lib/serverUtils";
+import { importBlogPosts } from "../lib/serverUtils";
 import { NextSeo } from "next-seo";
-
-const importBlogPosts = async () => {
-  // https://webpack.js.org/guides/dependency-management/#requirecontext
-  const markdownFiles = require
-    .context("../content/posts", false, /\.md$/)
-    .keys()
-    .map((relativePath) => relativePath.substring(2))
-    .reverse();
-
-  return Promise.all(
-    markdownFiles.map(async (path) => {
-      const markdown = await import(`../content/posts/${path}`);
-      const [year, month, day, slug] = constructPostPath(path);
-
-      return { ...markdown, slug: `${year}/${month}/${day}/${slug}` };
-    })
-  );
-};
+import generateRssFeed from "../lib/rss";
 
 const Home = ({ postsList, homeData }) => {
   const featuredPost = postsList[0];
@@ -42,6 +25,7 @@ const Home = ({ postsList, homeData }) => {
 
 export async function getStaticProps() {
   const postsList = await importBlogPosts();
+  await generateRssFeed(postsList);
   const homeData = await import("../content/home.md").catch(() => null);
 
   return {
