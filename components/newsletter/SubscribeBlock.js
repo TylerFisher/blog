@@ -9,8 +9,8 @@ export default function SubscribeBlock() {
             Sign up for the newsletter
           </h3>
           <p className="text-white md:text-lg leading-normal mt-4">
-            Don’t miss out on the latest articles. Sign up now to get articles
-            in your inbox.
+            I’ll email you whenever I write something new. Which is pretty
+            infrequently.
           </p>
           <SubscribeForm />
         </div>

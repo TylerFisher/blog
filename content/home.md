@@ -1,20 +1,21 @@
 ---
 title: Home
 date: 2019-03-17T19:31:20.591Z
-summary: Hi, I'm Tyler. I'm a software engineer and journalist trying to
-  rediscover writing through blogging.
+summary: I’m a web engineer and strategist making a better digital journalism.
+  Currently, I’m the Chief Technology Officer at The 19th. I cofounded the Tiny
+  News Collective and worked at The Washington Post, Politico and NPR.
 reading:
-  title: The Free World
-  author: Louis Menand
-  link: https://bookshop.org/p/books/the-free-world-art-and-thought-in-the-cold-war-louis-menand/14652080
+  title: "The Information: A History, A Theory, A Flood"
+  author: James Gleick
+  link: https://bookshop.org/p/books/the-information-a-history-a-theory-a-flood-james-gleick/7864803
 listening:
-  artist: Pinkshift
-  album: Love Me Forever
-  link: https://pinkshift.bandcamp.com/album/love-me-forever
+  artist: Sprints
+  album: Letter to Self
+  link: https://sprintsmusic.bandcamp.com/album/letter-to-self
 playing:
-  title: Elden Ring
-  platform: PS5
-  link: https://www.playstation.com/en-us/games/elden-ring/
+  title: 80 Days
+  platform: Mac
+  link: https://store.steampowered.com/app/381780/80_Days/
 ---
 
 ## Welcome to the Home Page

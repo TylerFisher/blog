@@ -1,15 +1,12 @@
 ---
 title: Selected Works
 summary: >-
-  I've worked at the intersection of journalism and technology for nearly a
-  decade. In that time, I've built a lot of stuff. I'm still proud of some of
-  it! This is a selection of some of my favorite projects.
+  I've worked at the intersection of journalism and technology for a decade. In
+  that time, I've built a lot of stuff. I'm still proud of some of it! This is a
+  selection of some of my favorite projects.
 
 
   Nearly every project I've ever worked on has been a team effort. I love collaborating with people who make me better. Every project in this portfolio is a result of collaboration with amazing people.
-
-
-  My role in most of these projects was as a full-stack developer. I make the product work.
 projects:
   - title: Tiny News Platform
     description: "As a co-founder of the [Tiny News
