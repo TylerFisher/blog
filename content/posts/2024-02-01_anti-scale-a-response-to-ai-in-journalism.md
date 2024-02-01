@@ -1,11 +1,13 @@
 ---
-title: Anti-scale, a response to AI in journalism
+title: "Anti-scale: a response to AI in journalism"
 date: 2024-02-01T02:35:38.077Z
-description: Generative AI can't save us. We can only save ourselves.
+description: Journalism can no longer chase Silicon Valley's tail in hopes of
+  salvation. We need a self-determined vision for what journalism on the web is,
+  who it is for, and how we build it.
 leadImage:
-  image: https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1706755684/john-moeses-bauan-Oj-G9GYlLr0-unsplash_qq4d8v.jpg
-  alt: An array of miniature houses
-  caption: Photo by John Moeses Bauan on Unsplash
+  image: https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1706760184/ussama-azam-26h317_UMYM-unsplash_f8zrwa.jpg
+  alt: A neon pink jagged line pointing downwards
+  caption: Photo by Ussama Azam on Unsplash
 category: Journalism on the internet
 ---
 Let's start here: Gallup's annual media trust survey said in 2023 that [only 32 percent of Americans trust journalism "to report the news in a full, fair and accurate way."](https://news.gallup.com/poll/512861/media-confidence-matches-2016-record-low.aspx) People don't trust journalism. That's bad enough, but by any conceivable metric, journalism's foray online has failed. Consider [journalists employed](https://www.pewresearch.org/short-reads/2021/07/13/u-s-newsroom-employment-has-fallen-26-since-2008/#:~:text=Newspaper%20newsroom%20employment%20fell%2057,to%20about%2018,000%20in%202020.), [revenue](https://www.pewresearch.org/journalism/fact-sheet/newspapers/#economics) or [counties with no news source](https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/2023/): all have gotten markedly worse over the last two decades. 

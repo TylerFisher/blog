@@ -15,7 +15,7 @@ Knowing myself, I will probably have furious spurts of activity here, and then I
 
 ## How'd you build this thing?
 
-[I wrote a whole blog post about it](http://www.tylerjfisher.com/blog/post/2022/03/10/how-i-built-this-website)! [And the repo is open source](https://github.com/TylerFisher/blog)! But here's the short of it: this is a [next.js](https://nextjs.org) application hosted on [Vercel](https://vercel.com). I manage content in [Decap CMS](https://decapcms.org), and I manage media assets in [Cloudinary](https://cloudinary.com). My newsletter is published via [Buttondown](https://buttondown.email). ~~All of this is free!~~ Buttondown costs $9/month now, but that's all I pay for.
+[I wrote a whole blog post about it](http://www.tylerjfisher.com/blog/post/2022/03/10/how-i-built-this-website)! [And the repo is open source](https://github.com/TylerFisher/blog)! But here's the short of it: this is a [next.js](https://nextjs.org) application hosted on [Vercel](https://vercel.com). I manage content in [Decap CMS](https://decapcms.org), and I manage media assets in [Cloudinary](https://cloudinary.com). My newsletter is published via [Buttondown](https://buttondown.email).
 
 ## There's a newsletter. Should I subscribe?
 
@@ -23,4 +23,4 @@ Yeah, if you want! I send all of my posts as individual newsletters as soon as t
 
 ## What about RSS?
 
-Got that too. Click [here](https://www.tylerjfisher.com/rss.xml). There's also [Atom](https://www.tylerjfisher.com/atom.xml) and [JSON](https://www.tylerjfisher.com/rss.json) feeds if you're nasty.
+Got that too. Click [here](https://www.tylerjfisher.com/rss.xml). There's also [Atom](https://www.tylerjfisher.com/atom.xml) and [JSON](https://www.tylerjfisher.com/rss.json) feeds.

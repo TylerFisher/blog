@@ -16,11 +16,11 @@
     <icon>https://www.tylerjfisher.com/favicon.ico</icon>
     <rights>All rights reserved 2024</rights>
     <entry>
-        <title type="html"><![CDATA[Anti-scale, a response to AI in journalism]]></title>
+        <title type="html"><![CDATA[Anti-scale: a response to AI in journalism]]></title>
         <id>https://www.tylerjfisher.com/blog/post/2024/02/01/anti-scale-a-response-to-ai-in-journalism</id>
         <link href="https://www.tylerjfisher.com/blog/post/2024/02/01/anti-scale-a-response-to-ai-in-journalism"/>
         <updated>2024-02-01T02:35:38.077Z</updated>
-        <summary type="html"><![CDATA[Generative AI can't save us. We can only save ourselves.]]></summary>
+        <summary type="html"><![CDATA[Journalism can no longer chase Silicon Valley's tail in hopes of salvation. We need a self-determined vision for what journalism on the web is, who it is for, and how we build it.]]></summary>
         <content type="html"><![CDATA[<p>Let's start here: Gallup's annual media trust survey said in 2023 that <a href="https://news.gallup.com/poll/512861/media-confidence-matches-2016-record-low.aspx">only 32 percent of Americans trust journalism &quot;to report the news in a full, fair and accurate way.&quot;</a> People don't trust journalism. That's bad enough, but by any conceivable metric, journalism's foray online has failed. Consider <a href="https://www.pewresearch.org/short-reads/2021/07/13/u-s-newsroom-employment-has-fallen-26-since-2008/#:~:text=Newspaper%20newsroom%20employment%20fell%2057,to%20about%2018,000%20in%202020.">journalists employed</a>, <a href="https://www.pewresearch.org/journalism/fact-sheet/newspapers/#economics">revenue</a> or <a href="https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/2023/">counties with no news source</a>: all have gotten markedly worse over the last two decades.</p>
 <p>Each year, fewer people produce journalism and more people tune out entirely. As the industry has declined without fail, news organizations have flailed trying to find the magic solution that would solve all their digital woes. Today, that savior is generative AI.</p>
 <p>In reality, generative AI is just another hyped solution from a tech industry with no interest in a healthy civic media ecosystem. However, unlike many earlier supposed saviors, generative AI presents existential risk. With the technology's ability to create plausible but often false content at unprecedented scale, AI-generated content threatens to overwhelm the web with bullshit (see <a href="https://press.princeton.edu/books/hardcover/9780691122946/on-bullshit">Harry Frankfurt</a>).</p>
