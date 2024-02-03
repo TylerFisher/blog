@@ -13,9 +13,9 @@ listening:
   album: Letter to Self
   link: https://sprintsmusic.bandcamp.com/album/letter-to-self
 playing:
-  title: 80 Days
-  platform: Mac
-  link: https://store.steampowered.com/app/381780/80_Days/
+  title: Persona 3 Reload
+  platform: PS5
+  link: https://store.playstation.com/en-us/product/UP0177-PPSA10872_00-APPLICATION00000
 ---
 
 ## Welcome to the Home Page
