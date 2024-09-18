@@ -9,13 +9,13 @@ reading:
   author: James Gleick
   link: https://bookshop.org/p/books/the-information-a-history-a-theory-a-flood-james-gleick/7864803
 listening:
-  artist: Sprints
-  album: Letter to Self
-  link: https://sprintsmusic.bandcamp.com/album/letter-to-self
+  artist: The Jesus Lizard
+  album: Rack
+  link: https://thejesuslizard.bandcamp.com/album/rack
 playing:
-  title: Persona 3 Reload
-  platform: PS5
-  link: https://store.playstation.com/en-us/product/UP0177-PPSA10872_00-APPLICATION00000
+  title: Victoria 3
+  platform: Mac
+  link: https://store.steampowered.com/app/529340/Victoria_3/
 ---
 
 ## Welcome to the Home Page
