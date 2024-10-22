@@ -8,6 +8,16 @@ summary: >-
 
   Nearly every project I've ever worked on has been a team effort. I love collaborating with people who make me better. Every project in this portfolio is a result of collaboration with amazing people.
 projects:
+  - title: Washington Post 2022 Election Results
+    description: "I rewrote the frontend application for the 2022 election results system at The Washington Post using TypeScript, next.js, Zustand, and Vercel as a deployment platform. Vercel [interviewed me](https://vercel.com/blog/washington-post-next.js-vercel-engineering-at-the-speed-of-breaking-news) about the process after the election as a success story. While engineering this work, I successfully argued for the team to use bubble maps rather than choropleth maps as a more accurate data presentation for election results."
+    published_date: November 2022
+    image:
+      image: https://res.cloudinary.com/tylrfishr/image/upload/v1729620294/Screenshot_2024-10-22_at_2.03.58_PM_bmdcei.png
+      alt: Screenshot of the Pennsylvania governor's race from the Washington Post 2022 election results
+      caption: I'm a big fan of bubble maps.
+    url: https://www.washingtonpost.com/election-results/2022/pennsylvania/
+    repo: https://vercel.com/blog/washington-post-next.js-vercel-engineering-at-the-speed-of-breaking-news
+    tech: TypeScript, next.js, React, Zustand, Vercel
   - title: Tiny News Platform
     description: "As a co-founder of the [Tiny News
       Collective](https://tinynewsco.org), I architected the Tiny News Platform,
@@ -23,7 +33,7 @@ projects:
       image: https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1650499165/Screen_Shot_2022-04-20_at_7.59.15_PM_rwgaqg.png
       alt: Screenshot of the Tiny News Collective homepage
       caption: How does one encapsulate a publishing system in an image?
-    url: https://harveyworld.org
+    url: https://www.youtube.com/watch?v=zpDimvDAfjU
     repo: https://github.com/news-catalyst/next-tinynewsdemo
     tech: Node.js, JavaScript, next.js, React, GraphQL, Hasura, Postgres, AWS
       Lambda, TailwindCSS
