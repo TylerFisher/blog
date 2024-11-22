@@ -65,4 +65,4 @@ This is a beta, after all, so Sill is far from perfect. Here are some things I k
 
 I built Sill because I value the people in my social network, and I believe I can learn the most about the world by reading what they read and hearing what they have to say. Sill listens to them at scale and helps me understand the conversation. In the month or so I’ve been using it myself, Sill has completely changed my relationship to my social network.
 
-If you’d like to better understand your network and the world around you, [sign up for Sill](https://sill.social). If you have feedback, you can find me on [Bluesky](https://bsky.app/profile/tylerjfisher.com), [Mastodon](https://social.tylerjfisher.com/home) or [email](mailto:tyler@sill.social).
+If you’d like to better understand your network and the world around you, [sign up for Sill](https://sill.social). If you have feedback, you can find me on [Bluesky](https://bsky.app/profile/tylerjfisher.com), [Mastodon](https://social.tylerjfisher.com/@tylrfishr) or [email](mailto:tyler@sill.social).
