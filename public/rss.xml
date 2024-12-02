@@ -4,7 +4,7 @@
         <title>Tyler Fisher</title>
         <link>https://www.tylerjfisher.com</link>
         <description>All posts from www.tylerjfisher.com</description>
-        <lastBuildDate>Wed, 20 Nov 2024 21:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 05:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>en</language>
@@ -14,6 +14,52 @@
             <link>https://www.tylerjfisher.com</link>
         </image>
         <copyright>All rights reserved 2024</copyright>
+        <item>
+            <title><![CDATA[Sill Beta Update #1: Lists, Permalinks, more]]></title>
+            <link>https://www.tylerjfisher.com/blog/post/2024/12/02/sill-beta-update-1-lists-permalinks-more</link>
+            <guid>https://www.tylerjfisher.com/blog/post/2024/12/02/sill-beta-update-1-lists-permalinks-more</guid>
+            <pubDate>Mon, 02 Dec 2024 05:11:51 GMT</pubDate>
+            <description><![CDATA[Some new features for Sill's public beta]]></description>
+            <content:encoded><![CDATA[<p>It's been an incredible week since Sill launched in public beta. Sill has nearly 4,000 users now, and Sill has been mentioned in <a href="https://www.niemanlab.org/2024/11/remember-nuzzel-a-similar-news-aggregating-tool-now-exists-for-bluesky/">Nieman Lab</a>, <a href="https://www.theverge.com/2024/11/24/24303359/surveilled-buy-now-documentaries-tech-dune-installer">The Verge</a>, <a href="https://techcrunch.com/2024/11/25/sills-new-app-rounds-up-the-best-links-from-your-bluesky-and-mastodon-network/">TechCrunch</a>, <a href="https://waxy.org/2024/11/sill-find-trending-links-from-your-bluesky-and-mastodon-network/">Waxy.org</a>, <a href="https://changelog.com/news/122">The Changelog</a>, <a href="https://lifehacker.com/tech/sill-app-links-in-bluesky-mastodon-feeds">Lifehacker</a> and a lot more, especially natively on Bluesky and Mastodon. Thank you all for giving Sill a try and telling your friends!</p>
+<p>Today, Sill is <a href="https://www.producthunt.com/posts/sill">live on Product Hunt</a>! If you're a Product Hunt user, I'd love your support over there.</p>
+<p>To kick off this week, I'm excited to announce some much-requested features are launching as the next phase of the beta process, including lists, permalinks for individual links, some redesigned navigation, and more.</p>
+<h2>New features</h2>
+<p>Today I'm launching a set of new features that are among the most requested in the time since I've launched.</p>
+<h3>Lists</h3>
+<p><em>The list feature will be a paid feature after Sill's beta period ends.</em></p>
+<p>One of the most powerful features of both Bluesky and Mastodon is the ability to create custom lists and feeds. Sill can now collect links from any of your lists or feeds on Bluesky or Mastodon. To enable this, head to the connect screen and turn on the lists you're interested in. You will see all of the lists you have either created or subscribed to under each account you've connected in Sill.</p>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1733116769/Screenshot_2024-12-01_at_10.01.23_PM_towgem.png" alt="A screenshot of the lists UI in Sill"></p>
+<p>When you enable a list in Sill, Sill will fetch links from the last 24 hours in that list immediately and continue to fetch links from that list going forward. Those links will be aggregated as part of your main feed in Sill and will go into your daily email if you have enabled the email. In the web client, you can also filter down to see just the links from an individual list.</p>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1733116796/Screenshot_2024-12-01_at_10.09.09_PM_isfmhi.png" alt="A screenshot of the filters UI in Sill with an arrow pointing to the new lists dropdown"></p>
+<p>For Bluesky users, note that Sill's link collection works best with chronological feeds. Sill will stop fetching when it encounters a post more than 24 hours old. With algorithmic feeds like Discover, that can happen pretty quickly, so Sill might not pick up very many links.</p>
+<p>On Mastodon, lists work differently. You can only add people you already follow to lists, so really, this is just another way of filtering your Sill feed down.</p>
+<p>As always, give me your feedback on this feature. Does it meet your expectations? What else would you want from lists?</p>
+<h3>Permalinks</h3>
+<p>Permalinks are accessible from the daily email, which will be a paid feature after Sill's beta period ends.</p>
+<p>A key frustration in the initial Sill launch was the inability to see anything about the individual posts discussing a link in the daily email. I have solved this with permalinks. Starting after this launch, in the daily email you will be able to click on the &quot;Shared by <n> accounts&quot; language below each link.</p>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1733116839/Screenshot_2024-12-01_at_10.19.22_PM_iad8uw.png" alt="A screenshot of a link in a Sill email with language below that says &quot;Shared by 3 accounts&quot; that links to a permalink page"></p>
+<p>Doing so will open a permalink route in the Sill web client where you can see all of the posts about a particular links.</p>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1733116886/Screenshot_2024-12-01_at_10.17.26_PM_rnppqh.png" alt="A screenshot of the permalink page, showing a link card and the three posts about the link"></p>
+<p>Note that these permalinks are not shareable. They require being logged into Sill, and will only show you posts from accounts you follow.</p>
+<h3>Customizable email options</h3>
+<p>The daily email will be a paid feature after Sill's beta period ends.</p>
+<p>I've added a couple additional options for the daily email:</p>
+<ul>
+<li>You can now customize the amount of links you receive in an email. You can get anywhere from 1-20.</li>
+<li>You can hide reposts from counting in the email's calculation of your top links.</li>
+</ul>
+<p><img src="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1733116877/Screenshot_2024-12-01_at_10.22.23_PM_ow58fd.png" alt="A screenshot of the new email settings page, which allows you to hide reposts via a checkbox and use a slider to set the number of links you receive per email."></p>
+<p>To customize these options, visit the new(!) email settings page. What else would you like to customize in your email?</p>
+<h2>Fixes and tweaks</h2>
+<ul>
+<li>Redesigned navigation: You may have noticed in the screenshots above that I tweaked the navigation. The email settings now have their own page, and I've renamed &quot;Home&quot; to &quot;Links&quot; so it is clearer where to find that functionality.</li>
+<li>No more gifs: I am now filtering out any link that ends in .gif by default.</li>
+<li>Better link matching: I wasn't converting all links to lowercase before matching them. That's fixed now, so if someone capitalizes a letter in a link, it shouldn't matter.</li>
+<li>Performance improvements: The database grew fast! Sill started getting a little slow for my taste over the last couple days. I'm introducing some new query patterns that I hope improve things, but we'll have to see how it performs at scale today.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1732254117/Screenshot_2024-11-22_at_12.41.47_AM_huctxm.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Introducing Sill]]></title>
             <link>https://www.tylerjfisher.com/blog/post/2024/11/20/introducing-sill</link>
@@ -58,7 +104,7 @@
 </ul>
 <h2>Give Sill a try</h2>
 <p>I built Sill because I value the people in my social network, and I believe I can learn the most about the world by reading what they read and hearing what they have to say. Sill listens to them at scale and helps me understand the conversation. In the month or so I’ve been using it myself, Sill has completely changed my relationship to my social network.</p>
-<p>If you’d like to better understand your network and the world around you, <a href="https://sill.social">sign up for Sill</a>. If you have feedback, you can find me on <a href="https://bsky.app/profile/tylerjfisher.com">Bluesky</a>, <a href="https://social.tylerjfisher.com/home">Mastodon</a> or <a href="mailto:tyler@sill.social">email</a>.</p>
+<p>If you’d like to better understand your network and the world around you, <a href="https://sill.social">sign up for Sill</a>. If you have feedback, you can find me on <a href="https://bsky.app/profile/tylerjfisher.com">Bluesky</a>, <a href="https://social.tylerjfisher.com/@tylrfishr">Mastodon</a> or <a href="mailto:tyler@sill.social">email</a>.</p>
 ]]></content:encoded>
             <enclosure url="https://res.cloudinary.com/tylrfishr/image/upload/f_auto,q_auto/c_fill,w_1200/v1732254117/Screenshot_2024-11-22_at_12.41.47_AM_huctxm.png" length="0" type="image/png"/>
         </item>
