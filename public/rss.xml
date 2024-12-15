@@ -20,7 +20,7 @@
             <guid>https://www.tylerjfisher.com/blog/post/2024/12/11/sill-beta-update-2-rss-dense-layout-and-more</guid>
             <pubDate>Wed, 11 Dec 2024 15:53:18 GMT</pubDate>
             <description><![CDATA[Sill gets closer to 1.0]]></description>
-            <content:encoded><![CDATA[<p>It’s been another great week! Another 500+ users have signed up since the last beta update, and Sill is well on its way to a 1.0 release in the new year.</p>
+            <content:encoded><![CDATA[<p>It’s been another great week! Another 500+ users have signed up since the last beta update, and <a href="https://sill.social">Sill</a> is well on its way to a 1.0 release in the new year.</p>
 <p>Today, I’m releasing a set of much-requested features that I’m really excited about, including RSS feeds, a dense layout option, and some navigation redesign. Let’s dig in!</p>
 <h2>New Features</h2>
 <h3>Daily Digest updates: RSS, better permalinks, and more</h3>
