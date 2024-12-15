@@ -1,6 +1,6 @@
 export default function HeaderSubscribe() {
   return (
-    <div className="text-xs md:text-sm tracking-wide uppercase flex justify-end items-center">
+    <div className="text-xs md:text-sm tracking-wide uppercase flex justify-end">
       <a
         className="items-center text-orange-600 inline-flex font-bold"
         href="#subscribe"

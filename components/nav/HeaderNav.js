@@ -7,7 +7,7 @@ export default function HeaderNav() {
         <HeaderNavItem label="Home" href="/" />
         <HeaderNavItem label="About" href="/about" ml />
         <HeaderNavItem label="Portfolio" href="/portfolio" ml />
-        <a href="https://bsky.app/profile/tylerjfisher.com">
+        {/* <a href="https://bsky.app/profile/tylerjfisher.com">
           <img
             src="/bluesky-logo.svg"
             alt="Bluesky"
@@ -20,7 +20,7 @@ export default function HeaderNav() {
             alt="Mastodon"
             className="h-6 w-6 ml-10"
           />
-        </a>
+        </a> */}
       </ul>
     </nav>
   );
