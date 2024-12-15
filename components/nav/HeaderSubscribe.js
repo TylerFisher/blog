@@ -21,12 +21,6 @@ export default function HeaderSubscribe() {
         </svg>
         <span className="ml-1">Subscribe</span>
       </a>
-      <a href="https://bsky.app/profile/tylerjfisher.com">
-        <img src="/bluesky-logo.svg" alt="Bluesky" className="h-5 w-6 ml-3" />
-      </a>
-      <a href="https://social.tylerjfisher.com/@tylrfishr">
-        <img src="/mastodon-logo.svg" alt="Mastodon" className="h-6 w-6 ml-3" />
-      </a>
     </div>
   );
 }

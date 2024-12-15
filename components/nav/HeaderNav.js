@@ -7,6 +7,20 @@ export default function HeaderNav() {
         <HeaderNavItem label="Home" href="/" />
         <HeaderNavItem label="About" href="/about" ml />
         <HeaderNavItem label="Portfolio" href="/portfolio" ml />
+        <a href="https://bsky.app/profile/tylerjfisher.com">
+          <img
+            src="/bluesky-logo.svg"
+            alt="Bluesky"
+            className="h-5 w-6 ml-10"
+          />
+        </a>
+        <a href="https://social.tylerjfisher.com/@tylrfishr">
+          <img
+            src="/mastodon-logo.svg"
+            alt="Mastodon"
+            className="h-6 w-6 ml-10"
+          />
+        </a>
       </ul>
     </nav>
   );
