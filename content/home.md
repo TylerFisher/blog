@@ -5,17 +5,17 @@ summary: I’m a web engineer and strategist making a better digital journalism.
   Most recently, I was the Chief Technology Officer at The 19th. I cofounded the
   Tiny News Collective and worked at The Washington Post, Politico and NPR.
 reading:
-  title: A Memory Called Empire
-  author: Arkady Martine
-  link: https://bookshop.org/p/books/a-memory-called-empire-arkady-martine/6986710
+  title: Stupid TV, Be More Funny
+  author: Alan Siegel
+  link: https://bookshop.org/p/books/stupid-tv-be-more-funny-how-the-golden-era-of-the-simpsons-changed-television-and-america-forever-alan-siegel/9a9fe71ab389abf0
 listening:
-  artist: Ethel Cain
-  album: Perverts
-  link: https://ethelcain.ffm.to/perverts
+  artist: Sprints
+  album: All That Is Over
+  link: https://sprintsmusic.bandcamp.com/album/all-that-is-over-bandcamp-exclusive-bonus-edition
 playing:
-  title: Balatro
-  platform: iOS
-  link: https://apps.apple.com/us/app/balatro/id6502453075
+  title: Hades II
+  platform: Nintendo Switch 2
+  link: https://www.nintendo.com/us/store/products/hades-ii-switch/
 ---
 
 ## Welcome to the Home Page
